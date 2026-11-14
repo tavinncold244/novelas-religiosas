@@ -1,0 +1,152 @@
+[
+  {
+    "text": "A",
+    "start": 0,
+    "end": 0.2,
+    "id": "w0"
+  },
+  {
+    "text": "Sofia,",
+    "start": 0.2,
+    "end": 1.58,
+    "id": "w1"
+  },
+  {
+    "text": "né,",
+    "start": 1.58,
+    "end": 2.27,
+    "id": "w2"
+  },
+  {
+    "text": "sete",
+    "start": 2.27,
+    "end": 2.8,
+    "id": "w3"
+  },
+  {
+    "text": "anos,",
+    "start": 2.8,
+    "end": 3.5,
+    "id": "w4"
+  },
+  {
+    "text": "gosta",
+    "start": 3.5,
+    "end": 3.89,
+    "id": "w5"
+  },
+  {
+    "text": "de",
+    "start": 3.89,
+    "end": 4.04,
+    "id": "w6"
+  },
+  {
+    "text": "desenhar",
+    "start": 4.04,
+    "end": 4.66,
+    "id": "w7"
+  },
+  {
+    "text": "o",
+    "start": 4.66,
+    "end": 4.73,
+    "id": "w8"
+  },
+  {
+    "text": "céu.",
+    "start": 4.73,
+    "end": 6,
+    "id": "w9"
+  },
+  {
+    "text": "Você",
+    "start": 6,
+    "end": 6.27,
+    "id": "w10"
+  },
+  {
+    "text": "tem",
+    "start": 6.27,
+    "end": 6.47,
+    "id": "w11"
+  },
+  {
+    "text": "orado",
+    "start": 6.47,
+    "end": 6.8,
+    "id": "w12"
+  },
+  {
+    "text": "por",
+    "start": 6.8,
+    "end": 7,
+    "id": "w13"
+  },
+  {
+    "text": "ela",
+    "start": 7,
+    "end": 7.2,
+    "id": "w14"
+  },
+  {
+    "text": "toda",
+    "start": 7.2,
+    "end": 7.47,
+    "id": "w15"
+  },
+  {
+    "text": "noite",
+    "start": 7.47,
+    "end": 7.81,
+    "id": "w16"
+  },
+  {
+    "text": "dentro",
+    "start": 7.81,
+    "end": 8.21,
+    "id": "w17"
+  },
+  {
+    "text": "desse",
+    "start": 8.22,
+    "end": 8.56,
+    "id": "w18"
+  },
+  {
+    "text": "carro.",
+    "start": 8.56,
+    "end": 9,
+    "id": "w19"
+  },
+  {
+    "text": "Eu",
+    "start": 9,
+    "end": 9.09,
+    "id": "w20"
+  },
+  {
+    "text": "ouvi",
+    "start": 9.09,
+    "end": 9.27,
+    "id": "w21"
+  },
+  {
+    "text": "todas",
+    "start": 9.27,
+    "end": 9.49,
+    "id": "w22"
+  },
+  {
+    "text": "as",
+    "start": 9.49,
+    "end": 9.58,
+    "id": "w23"
+  },
+  {
+    "text": "coisas.",
+    "start": 9.58,
+    "end": 10,
+    "id": "w24"
+  }
+]

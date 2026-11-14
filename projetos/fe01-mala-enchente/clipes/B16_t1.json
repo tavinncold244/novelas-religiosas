@@ -1,0 +1,98 @@
+[
+  {
+    "text": "Eu",
+    "start": 0,
+    "end": 0.28,
+    "id": "w0"
+  },
+  {
+    "text": "solto",
+    "start": 0.39,
+    "end": 0.96,
+    "id": "w1"
+  },
+  {
+    "text": "o",
+    "start": 0.98,
+    "end": 1.12,
+    "id": "w2"
+  },
+  {
+    "text": "Senhor.",
+    "start": 1.15,
+    "end": 2.21,
+    "id": "w3"
+  },
+  {
+    "text": "Leva",
+    "start": 2.35,
+    "end": 2.63,
+    "id": "w4"
+  },
+  {
+    "text": "tudo.",
+    "start": 2.63,
+    "end": 3.3,
+    "id": "w5"
+  },
+  {
+    "text": "Me",
+    "start": 3.41,
+    "end": 3.5,
+    "id": "w6"
+  },
+  {
+    "text": "perdoa.",
+    "start": 3.5,
+    "end": 4.33,
+    "id": "w7"
+  },
+  {
+    "text": "Me",
+    "start": 4.44,
+    "end": 4.62,
+    "id": "w8"
+  },
+  {
+    "text": "perdoa,",
+    "start": 4.62,
+    "end": 5.34,
+    "id": "w9"
+  },
+  {
+    "text": "Sida.",
+    "start": 5.34,
+    "end": 6,
+    "id": "w10"
+  },
+  {
+    "text": "Eu",
+    "start": 6,
+    "end": 6.16,
+    "id": "w11"
+  },
+  {
+    "text": "só",
+    "start": 6.17,
+    "end": 6.34,
+    "id": "w12"
+  },
+  {
+    "text": "quero",
+    "start": 6.34,
+    "end": 6.75,
+    "id": "w13"
+  },
+  {
+    "text": "viver.",
+    "start": 6.76,
+    "end": 7.3,
+    "id": "w14"
+  },
+  {
+    "text": "Pronto.",
+    "start": 8.5,
+    "end": 9.5,
+    "id": "w15"
+  }
+]

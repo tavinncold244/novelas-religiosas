@@ -1,0 +1,158 @@
+[
+  {
+    "text": "Bom",
+    "start": 0.03,
+    "end": 0.35,
+    "id": "w0"
+  },
+  {
+    "text": "dia,",
+    "start": 0.35,
+    "end": 0.93,
+    "id": "w1"
+  },
+  {
+    "text": "doutor!",
+    "start": 0.93,
+    "end": 2,
+    "id": "w2"
+  },
+  {
+    "text": "Seja",
+    "start": 2.1,
+    "end": 2.51,
+    "id": "w3"
+  },
+  {
+    "text": "bem-vindo!",
+    "start": 2.55,
+    "end": 4.18,
+    "id": "w4"
+  },
+  {
+    "text": "Café",
+    "start": 4.23,
+    "end": 4.49,
+    "id": "w5"
+  },
+  {
+    "text": "por",
+    "start": 4.49,
+    "end": 4.71,
+    "id": "w6"
+  },
+  {
+    "text": "conta",
+    "start": 4.71,
+    "end": 5.08,
+    "id": "w7"
+  },
+  {
+    "text": "da",
+    "start": 5.08,
+    "end": 5.23,
+    "id": "w8"
+  },
+  {
+    "text": "casa",
+    "start": 5.23,
+    "end": 5.53,
+    "id": "w9"
+  },
+  {
+    "text": "para",
+    "start": 5.53,
+    "end": 5.83,
+    "id": "w10"
+  },
+  {
+    "text": "o",
+    "start": 5.83,
+    "end": 5.9,
+    "id": "w11"
+  },
+  {
+    "text": "senhor.",
+    "start": 6.3,
+    "end": 6.4,
+    "id": "w12"
+  },
+  {
+    "text": "Senta",
+    "start": 6.43,
+    "end": 6.66,
+    "id": "w13"
+  },
+  {
+    "text": "na",
+    "start": 6.66,
+    "end": 6.76,
+    "id": "w14"
+  },
+  {
+    "text": "melhor",
+    "start": 6.76,
+    "end": 7.07,
+    "id": "w15"
+  },
+  {
+    "text": "mesa,",
+    "start": 7.07,
+    "end": 7.38,
+    "id": "w16"
+  },
+  {
+    "text": "por",
+    "start": 7.38,
+    "end": 7.54,
+    "id": "w17"
+  },
+  {
+    "text": "favor.",
+    "start": 7.54,
+    "end": 8,
+    "id": "w18"
+  },
+  {
+    "text": "Fique",
+    "start": 8,
+    "end": 8.22,
+    "id": "w19"
+  },
+  {
+    "text": "à",
+    "start": 8.22,
+    "end": 8.26,
+    "id": "w20"
+  },
+  {
+    "text": "vontade,",
+    "start": 8.5,
+    "end": 8.67,
+    "id": "w21"
+  },
+  {
+    "text": "a",
+    "start": 8.7,
+    "end": 8.78,
+    "id": "w22"
+  },
+  {
+    "text": "padaria",
+    "start": 8.78,
+    "end": 9.38,
+    "id": "w23"
+  },
+  {
+    "text": "é",
+    "start": 9.38,
+    "end": 9.46,
+    "id": "w24"
+  },
+  {
+    "text": "sua.",
+    "start": 9.46,
+    "end": 10,
+    "id": "w25"
+  }
+]

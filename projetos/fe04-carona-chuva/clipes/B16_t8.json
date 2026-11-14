@@ -1,0 +1,140 @@
+[
+  {
+    "text": "Todo",
+    "start": 0,
+    "end": 0.21,
+    "id": "w0"
+  },
+  {
+    "text": "dia",
+    "start": 0.21,
+    "end": 0.36,
+    "id": "w1"
+  },
+  {
+    "text": "eu",
+    "start": 0.36,
+    "end": 0.46,
+    "id": "w2"
+  },
+  {
+    "text": "passo",
+    "start": 0.46,
+    "end": 0.72,
+    "id": "w3"
+  },
+  {
+    "text": "pelo",
+    "start": 0.72,
+    "end": 0.93,
+    "id": "w4"
+  },
+  {
+    "text": "seu",
+    "start": 0.93,
+    "end": 1.08,
+    "id": "w5"
+  },
+  {
+    "text": "caminho",
+    "start": 1.08,
+    "end": 1.44,
+    "id": "w6"
+  },
+  {
+    "text": "disfarçado",
+    "start": 1.44,
+    "end": 2,
+    "id": "w7"
+  },
+  {
+    "text": "de",
+    "start": 2,
+    "end": 2.33,
+    "id": "w8"
+  },
+  {
+    "text": "alguém",
+    "start": 2.33,
+    "end": 3.32,
+    "id": "w9"
+  },
+  {
+    "text": "que",
+    "start": 3.32,
+    "end": 3.82,
+    "id": "w10"
+  },
+  {
+    "text": "precisa.",
+    "start": 3.82,
+    "end": 6.35,
+    "id": "w11"
+  },
+  {
+    "text": "Hoje",
+    "start": 6.36,
+    "end": 6.66,
+    "id": "w12"
+  },
+  {
+    "text": "você",
+    "start": 6.66,
+    "end": 6.96,
+    "id": "w13"
+  },
+  {
+    "text": "parou,",
+    "start": 6.96,
+    "end": 7.48,
+    "id": "w14"
+  },
+  {
+    "text": "escreve",
+    "start": 7.48,
+    "end": 8,
+    "id": "w15"
+  },
+  {
+    "text": "amém",
+    "start": 8,
+    "end": 8.27,
+    "id": "w16"
+  },
+  {
+    "text": "de",
+    "start": 8.34,
+    "end": 8.45,
+    "id": "w17"
+  },
+  {
+    "text": "qual",
+    "start": 8.45,
+    "end": 8.75,
+    "id": "w18"
+  },
+  {
+    "text": "cidade",
+    "start": 8.75,
+    "end": 9.2,
+    "id": "w19"
+  },
+  {
+    "text": "você",
+    "start": 9.2,
+    "end": 9.5,
+    "id": "w20"
+  },
+  {
+    "text": "está",
+    "start": 9.5,
+    "end": 9.83,
+    "id": "w21"
+  },
+  {
+    "text": "assistindo.",
+    "start": 9.83,
+    "end": 10.04,
+    "id": "w22"
+  }
+]

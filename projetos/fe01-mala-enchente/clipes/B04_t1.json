@@ -1,0 +1,158 @@
+[
+  {
+    "text": "Fácil",
+    "start": 0,
+    "end": 0.35,
+    "id": "w0"
+  },
+  {
+    "text": "falar",
+    "start": 0.35,
+    "end": 0.7,
+    "id": "w1"
+  },
+  {
+    "text": "para",
+    "start": 0.7,
+    "end": 0.98,
+    "id": "w2"
+  },
+  {
+    "text": "quem",
+    "start": 0.98,
+    "end": 1.26,
+    "id": "w3"
+  },
+  {
+    "text": "não",
+    "start": 1.26,
+    "end": 1.47,
+    "id": "w4"
+  },
+  {
+    "text": "tem",
+    "start": 1.47,
+    "end": 1.68,
+    "id": "w5"
+  },
+  {
+    "text": "nada.",
+    "start": 1.68,
+    "end": 5,
+    "id": "w6"
+  },
+  {
+    "text": "Vai",
+    "start": 5,
+    "end": 5.15,
+    "id": "w7"
+  },
+  {
+    "text": "buscar",
+    "start": 5.15,
+    "end": 5.46,
+    "id": "w8"
+  },
+  {
+    "text": "lavadeira",
+    "start": 5.46,
+    "end": 5.91,
+    "id": "w9"
+  },
+  {
+    "text": "ali",
+    "start": 5.91,
+    "end": 6.06,
+    "id": "w10"
+  },
+  {
+    "text": "do",
+    "start": 6.06,
+    "end": 6.16,
+    "id": "w11"
+  },
+  {
+    "text": "lado?",
+    "start": 6.16,
+    "end": 6.6,
+    "id": "w12"
+  },
+  {
+    "text": "Aquela",
+    "start": 6.6,
+    "end": 6.88,
+    "id": "w13"
+  },
+  {
+    "text": "não",
+    "start": 6.88,
+    "end": 7.02,
+    "id": "w14"
+  },
+  {
+    "text": "tem",
+    "start": 7.02,
+    "end": 7.16,
+    "id": "w15"
+  },
+  {
+    "text": "nada",
+    "start": 7.16,
+    "end": 7.34,
+    "id": "w16"
+  },
+  {
+    "text": "para",
+    "start": 7.34,
+    "end": 7.52,
+    "id": "w17"
+  },
+  {
+    "text": "perder",
+    "start": 7.52,
+    "end": 7.8,
+    "id": "w18"
+  },
+  {
+    "text": "mesmo.",
+    "start": 7.8,
+    "end": 8.2,
+    "id": "w19"
+  },
+  {
+    "text": "Eu",
+    "start": 8.2,
+    "end": 8.3,
+    "id": "w20"
+  },
+  {
+    "text": "espero",
+    "start": 8.3,
+    "end": 8.6,
+    "id": "w21"
+  },
+  {
+    "text": "o",
+    "start": 8.6,
+    "end": 8.65,
+    "id": "w22"
+  },
+  {
+    "text": "helicóptero",
+    "start": 8.65,
+    "end": 9.2,
+    "id": "w23"
+  },
+  {
+    "text": "da",
+    "start": 9.2,
+    "end": 9.3,
+    "id": "w24"
+  },
+  {
+    "text": "prefeitura.",
+    "start": 9.3,
+    "end": 9.84,
+    "id": "w25"
+  }
+]

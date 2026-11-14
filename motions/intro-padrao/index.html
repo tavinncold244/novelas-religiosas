@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="zh-CN" data-resolution="landscape">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1920, height=1080" />
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.15.0/dist/gsap.min.js"></script>
+    <style>
+      @font-face { font-family: "Microsoft YaHei"; src: local("Microsoft YaHei"); font-weight: 400; }
+      @font-face { font-family: "Microsoft YaHei"; src: local("Microsoft YaHei Bold"); font-weight: 700; }
+      /* Intro padrão Bilibili: troque TITULO / SUBTITULO no HTML. */
+      :root {
+        --ground: #0f1115;
+        --ink: #ffffff;
+        --pink: #fb7299;
+        --blue: #00aeec;
+        --font-display: "Microsoft YaHei", sans-serif;
+      }
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      html, body { margin: 0; width: 1920px; height: 1080px; overflow: hidden; background: var(--ground); }
+      #root {
+        position: relative; width: 100%; height: 100%;
+        display: flex; flex-direction: column; align-items: center; justify-content: center;
+        font-family: var(--font-display);
+      }
+      .bar { position: absolute; left: 0; height: 14px; width: 100%; transform-origin: left center; }
+      #bar-top { top: 0; background: var(--pink); }
+      #bar-bot { bottom: 0; background: var(--blue); transform-origin: right center; }
+      #stack { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; }
+      #title { color: var(--ink); font-size: 128px; font-weight: 700; letter-spacing: 0.04em; }
+      #underline { width: 520px; height: 10px; border-radius: 5px; background: linear-gradient(90deg, var(--pink), var(--blue)); margin-top: 28px; transform-origin: center; }
+      #subtitle { color: #c9ced6; font-size: 48px; font-weight: 400; margin-top: 36px; letter-spacing: 0.2em; }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="3" data-width="1920" data-height="1080">
+      <div id="bar-top" class="bar clip" data-start="0" data-duration="3" data-track-index="0"></div>
+      <div id="bar-bot" class="bar clip" data-start="0" data-duration="3" data-track-index="1"></div>
+      <div id="stack" class="clip" data-start="0" data-duration="3" data-track-index="2">
+        <h1 id="title">频道名称</h1>
+        <div id="underline"></div>
+        <p id="subtitle">本期主题</p>
+      </div>
+      <audio id="sfx-whoosh" class="clip" src="assets/whoosh.mp3" data-start="0.15" data-duration="1.2" data-track-index="5" data-volume="0.6"></audio>
+    </div>
+    <script>
+      const tl = gsap.timeline({ paused: true });
+      tl.fromTo("#bar-top", { scaleX: 0 }, { scaleX: 1, duration: 0.5, ease: "power3.out" }, 0)
+        .fromTo("#bar-bot", { scaleX: 0 }, { scaleX: 1, duration: 0.5, ease: "power3.out" }, 0.1)
+        .fromTo("#title", { opacity: 0, y: 60, filter: "blur(10px)" }, { opacity: 1, y: 0, filter: "blur(0px)", duration: 0.6, ease: "power4.out" }, 0.25)
+        .fromTo("#underline", { scaleX: 0 }, { scaleX: 1, duration: 0.5, ease: "power3.inOut" }, 0.55)
+        .fromTo("#subtitle", { opacity: 0, y: 20 }, { opacity: 1, y: 0, duration: 0.5, ease: "power2.out" }, 0.8)
+        .to(["#title", "#underline", "#subtitle"], { opacity: 0, y: -20, duration: 0.35, ease: "power2.in" }, 2.6);
+      window.__timelines["main"] = tl;
+      tl.seek(0);
+    </script>
+  </body>
+</html>

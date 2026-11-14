@@ -1,0 +1,152 @@
+[
+  {
+    "text": "Perdi",
+    "start": 0.02,
+    "end": 0.52,
+    "id": "w0"
+  },
+  {
+    "text": "a",
+    "start": 0.52,
+    "end": 0.62,
+    "id": "w1"
+  },
+  {
+    "text": "máquina",
+    "start": 1.15,
+    "end": 1.35,
+    "id": "w2"
+  },
+  {
+    "text": "senhor,",
+    "start": 1.35,
+    "end": 2.28,
+    "id": "w3"
+  },
+  {
+    "text": "mas",
+    "start": 2.28,
+    "end": 2.39,
+    "id": "w4"
+  },
+  {
+    "text": "ganhei",
+    "start": 2.72,
+    "end": 3.53,
+    "id": "w5"
+  },
+  {
+    "text": "paz.",
+    "start": 3.53,
+    "end": 4,
+    "id": "w6"
+  },
+  {
+    "text": "Dona",
+    "start": 4.02,
+    "end": 4.49,
+    "id": "w7"
+  },
+  {
+    "text": "Cida,",
+    "start": 4.49,
+    "end": 5.99,
+    "id": "w8"
+  },
+  {
+    "text": "a",
+    "start": 5.99,
+    "end": 6.04,
+    "id": "w9"
+  },
+  {
+    "text": "senhora",
+    "start": 6.05,
+    "end": 6.32,
+    "id": "w10"
+  },
+  {
+    "text": "vai",
+    "start": 6.32,
+    "end": 6.39,
+    "id": "w11"
+  },
+  {
+    "text": "ter",
+    "start": 6.44,
+    "end": 6.46,
+    "id": "w12"
+  },
+  {
+    "text": "uma",
+    "start": 6.46,
+    "end": 6.72,
+    "id": "w13"
+  },
+  {
+    "text": "oficina",
+    "start": 6.72,
+    "end": 7,
+    "id": "w14"
+  },
+  {
+    "text": "com",
+    "start": 7,
+    "end": 7.12,
+    "id": "w15"
+  },
+  {
+    "text": "dez",
+    "start": 7.24,
+    "end": 7.41,
+    "id": "w16"
+  },
+  {
+    "text": "máquinas.",
+    "start": 7.42,
+    "end": 8,
+    "id": "w17"
+  },
+  {
+    "text": "Evai",
+    "start": 8.02,
+    "end": 8.34,
+    "id": "w18"
+  },
+  {
+    "text": "me",
+    "start": 8.34,
+    "end": 8.51,
+    "id": "w19"
+  },
+  {
+    "text": "ensinar",
+    "start": 8.51,
+    "end": 9.11,
+    "id": "w20"
+  },
+  {
+    "text": "a",
+    "start": 9.15,
+    "end": 9.19,
+    "id": "w21"
+  },
+  {
+    "text": "dar",
+    "start": 9.19,
+    "end": 9.45,
+    "id": "w22"
+  },
+  {
+    "text": "bom",
+    "start": 9.45,
+    "end": 9.71,
+    "id": "w23"
+  },
+  {
+    "text": "dia.",
+    "start": 9.71,
+    "end": 10,
+    "id": "w24"
+  }
+]

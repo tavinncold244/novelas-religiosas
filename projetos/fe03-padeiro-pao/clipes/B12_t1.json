@@ -1,0 +1,134 @@
+[
+  {
+    "text": "O",
+    "start": 0,
+    "end": 0.28,
+    "id": "w0"
+  },
+  {
+    "text": "senhor?",
+    "start": 0.64,
+    "end": 2.28,
+    "id": "w1"
+  },
+  {
+    "text": "O",
+    "start": 2.28,
+    "end": 2.37,
+    "id": "w2"
+  },
+  {
+    "text": "velho",
+    "start": 2.51,
+    "end": 2.82,
+    "id": "w3"
+  },
+  {
+    "text": "da",
+    "start": 2.84,
+    "end": 3.03,
+    "id": "w4"
+  },
+  {
+    "text": "calçada?",
+    "start": 3.03,
+    "end": 3.99,
+    "id": "w5"
+  },
+  {
+    "text": "Não",
+    "start": 4.12,
+    "end": 4.3,
+    "id": "w6"
+  },
+  {
+    "text": "pode",
+    "start": 4.3,
+    "end": 4.69,
+    "id": "w7"
+  },
+  {
+    "text": "ser!",
+    "start": 4.69,
+    "end": 5,
+    "id": "w8"
+  },
+  {
+    "text": "Seu",
+    "start": 5,
+    "end": 5.22,
+    "id": "w9"
+  },
+  {
+    "text": "Sebastião,",
+    "start": 5.22,
+    "end": 6.06,
+    "id": "w10"
+  },
+  {
+    "text": "me",
+    "start": 6.06,
+    "end": 6.17,
+    "id": "w11"
+  },
+  {
+    "text": "perdoa,",
+    "start": 6.2,
+    "end": 6.81,
+    "id": "w12"
+  },
+  {
+    "text": "foi",
+    "start": 6.81,
+    "end": 7.04,
+    "id": "w13"
+  },
+  {
+    "text": "brincadeira,",
+    "start": 7.04,
+    "end": 8.15,
+    "id": "w14"
+  },
+  {
+    "text": "eu",
+    "start": 8.15,
+    "end": 8.31,
+    "id": "w15"
+  },
+  {
+    "text": "não",
+    "start": 8.31,
+    "end": 8.54,
+    "id": "w16"
+  },
+  {
+    "text": "sabia",
+    "start": 8.54,
+    "end": 8.94,
+    "id": "w17"
+  },
+  {
+    "text": "que",
+    "start": 9.1,
+    "end": 9.18,
+    "id": "w18"
+  },
+  {
+    "text": "era",
+    "start": 9.18,
+    "end": 9.42,
+    "id": "w19"
+  },
+  {
+    "text": "o",
+    "start": 9.42,
+    "end": 9.5,
+    "id": "w20"
+  },
+  {
+    "text": "senhor!",
+    "start": 9.5,
+    "end": 10,
+    "id": "w21"
+  }
+]

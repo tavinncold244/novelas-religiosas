@@ -1,0 +1,6 @@
+B01 t1 ade75817-5fc3-447d-b04a-5b61ea13f5ea 
+B01 t2 948cdb49-d1e8-48fa-bafb-d37ae46a9cba 
+B02 t1 c5a05f01-f272-4ac7-909f-795ca18164f9 clipes/B01_t2_ultimo.jpg
+B02 t2 fa68e825-46a8-4235-b6f8-f2fd852beecd clipes/B01_t2_ultimo.jpg
+B03 t1 59cdf2bc-5d99-43ac-88c0-001f481f7661 clipes/B02_t2_ultimo.jpg,ref_l1.jpg
+B03 t2 947e0aa4-05b1-44a1-9f59-bcefc7108d31 clipes/B02_t2_ultimo.jpg,ref_l1.jpg

@@ -1,0 +1,254 @@
+{
+  "estilo": "Fictional Brazilian faith drama performed by professional actors. Vertical 9:16, cinematic film look, ultra-realistic, 35mm lens, shallow depth of field, moody night lighting with warm streetlight glow and rain, gentle slow camera moves, shot in Brazil. One continuous scene in one location; every actor keeps exactly the same face, hair and clothes in every shot.",
+  "prefixo": "The attached reference images are AI-generated stills from earlier shots of this same fictional film — the characters are fictional, not real people. Keep the same faces, hair, clothes, location and light as in the reference images. If the reference and this text differ in any detail (position, framing, objects), keep the appearance from the reference and follow this text for the action and framing; do not ask for clarification, just generate the video.",
+  "prefixo_ref": "The attached reference images are AI-generated stills from earlier shots of this same fictional film — the characters are fictional, not real people. Keep the same faces, hair, clothes, location and light as in the reference images. If the reference and this text differ in any detail (position, framing, objects), keep the appearance from the reference and follow this text for the action and framing; do not ask for clarification, just generate the video.",
+  "personagens": {
+    "RAFAEL": "RAFAEL — 32-year-old brown-skinned Brazilian man, short black hair, light stubble, tired kind eyes, grey zip-up hoodie over a black t-shirt, a simple wristwatch. He is the driver. Voice: warm, humble, tired.",
+    "PATRICIA": "PATRÍCIA — 40-year-old white Brazilian woman, straight blonde bob haircut, pearl earrings, beige trench coat, holding a smartphone, sitting in the back seat. Voice: cold, arrogant, impatient.",
+    "ANDARILHO": "THE WANDERER — man in his early 30s, Middle-Eastern features, warm olive skin, shoulder-length wavy dark-brown hair, full dark-brown beard, calm kind brown eyes, wearing an old soaked dark-brown hooded wool coat with the hood up, rain drops on his face. Voice: calm, deep, warm, slow.",
+    "JESUS": "JESUS — man in his early 30s, Middle-Eastern features, warm olive skin, shoulder-length wavy dark-brown hair parted in the middle, full dark-brown beard, calm kind brown eyes, gentle smile, simple long ivory linen robe with a V-neck and a light-brown cloth sash, completely dry. No halo, no glow on the body, no jewelry. Voice: calm, deep, warm, slow Brazilian Portuguese.",
+    "MEDICA": "DOCTOR — 45-year-old Brazilian woman of Japanese descent, black hair in a low ponytail, thin glasses, white doctor's coat over a light-blue blouse, stethoscope around her neck, holding a tablet. Voice: amazed, professional."
+  },
+  "rotulos": {
+    "PATRICIA": "PATRÍCIA",
+    "ANDARILHO": "THE WANDERER",
+    "MEDICA": "DOCTOR"
+  },
+  "cenarios": {
+    "L1": "Inside a simple silver hatchback car at night in heavy rain in a Brazilian city: rain streaming down the windows, blurred orange streetlights and city lights outside, a phone with a map on a dashboard holder (no readable text), dark fabric seats. No writing, no names anywhere.",
+    "L2": "A simple covered bus stop on a dark Brazilian street at night in heavy rain, puddles reflecting orange streetlights, the silver hatchback car stopped at the curb with the driver's window down. No signs with writing, no names anywhere.",
+    "L3": "A bright corridor of a Brazilian children's hospital in the morning, warm sunlight through tall windows, light-yellow walls, a bench. No signs with writing, no names anywhere."
+  },
+  "blocos": [
+    {
+      "id": "B01",
+      "duracao": 10,
+      "cenario": "L1",
+      "plano": "medium shot",
+      "personagens": [
+        "RAFAEL"
+      ],
+      "acao": "From the front passenger side: Patrícia in the back seat leans forward, irritated, pointing out the rainy window toward a bus stop; Rafael is driving.",
+      "falas": [
+        [
+          "PATRICIA",
+          "cold, irritated, pointing",
+          "Não para, não! Você é louco? Vai deixar esse mendigo encharcado sentar no banco onde eu tô? Segue! Senão eu te dou uma estrela e você perde a conta."
+        ]
+      ]
+    },
+    {
+      "id": "B02",
+      "duracao": 10,
+      "cenario": "L1",
+      "plano": "medium close-up",
+      "acao": "Rafael driving, glancing at the rear-view mirror, calm and respectful.",
+      "falas": [
+        [
+          "RAFAEL",
+          "calm, respectful",
+          "Senhora, é só um senhor no ponto, na chuva, às onze da noite. Eu não ia cobrar dele. Mas tudo bem, eu levo a senhora primeiro."
+        ]
+      ]
+    },
+    {
+      "id": "B03",
+      "duracao": 10,
+      "cenario": "L1",
+      "plano": "medium close-up",
+      "acao": "Patrícia in the back seat, looking at her phone, says with contempt without looking up.",
+      "falas": [
+        [
+          "PATRICIA",
+          "contemptuous, mocking smile",
+          "Gente como você nunca sai do lugar. Fica dando carona pra vagabundo e depois chora porque não consegue pagar a prestação desse carro."
+        ]
+      ]
+    },
+    {
+      "id": "B04",
+      "duracao": 10,
+      "cenario": "L1",
+      "plano": "close-up",
+      "acao": "Rafael now alone in the car, parked, rain on the windshield, hands on the wheel, praying quietly with his eyes on the road.",
+      "falas": [
+        [
+          "RAFAEL",
+          "praying, tired, sincere",
+          "Senhor, ela tem razão numa coisa. A prestação venceu ontem e o exame da Sofia é amanhã. Mas eu não consigo deixar aquele homem na chuva."
+        ]
+      ]
+    },
+    {
+      "id": "B05",
+      "duracao": 10,
+      "cenario": "L2",
+      "dupla": "ANDARILHO",
+      "acao": "Rafael has stopped the car at the bus stop and speaks through the open driver's window to the wanderer, who stands soaked under the bus stop roof.",
+      "falas": [
+        [
+          "RAFAEL",
+          "warm, smiling",
+          "Boa noite, meu senhor! Entra aí, vai. Tá caindo o mundo. Não precisa pagar nada, eu levo o senhor aonde precisar."
+        ]
+      ]
+    },
+    {
+      "id": "B06",
+      "duracao": 10,
+      "cenario": "L1",
+      "plano": "medium close-up",
+      "acao": "The wanderer now sits in the back seat, soaked, hood up, calm, looking at Rafael through the rear-view mirror.",
+      "falas": [
+        [
+          "ANDARILHO",
+          "calm, gentle",
+          "Obrigado, Rafael. Muita gente passou por aquele ponto hoje. Só você voltou. Pode me deixar na frente do hospital infantil."
+        ]
+      ]
+    },
+    {
+      "id": "B07",
+      "duracao": 10,
+      "cenario": "L1",
+      "plano": "medium close-up",
+      "acao": "Rafael driving, surprised, glancing at the mirror.",
+      "falas": [
+        [
+          "RAFAEL",
+          "surprised, then worried",
+          "Ué, como o senhor sabe o meu nome? Deve ter visto no aplicativo. Hospital infantil? Eu vou pra lá amanhã. Minha filha faz exame do coração."
+        ]
+      ]
+    },
+    {
+      "id": "B08",
+      "duracao": 10,
+      "cenario": "L1",
+      "plano": "close-up",
+      "acao": "The wanderer in the back seat, rain light moving on his face, speaks softly.",
+      "falas": [
+        [
+          "ANDARILHO",
+          "soft, tender",
+          "A Sofia, né? Sete anos, gosta de desenhar o céu. Você tem orado por ela toda noite dentro desse carro. Eu ouvi todas."
+        ]
+      ]
+    },
+    {
+      "id": "B09",
+      "duracao": 10,
+      "cenario": "L1",
+      "plano": "close-up",
+      "acao": "Rafael pulls over, stops the car, his eyes filling with tears, staring at the mirror.",
+      "falas": [
+        [
+          "RAFAEL",
+          "trembling, teary, speaking clearly",
+          "Quem é o senhor? Eu nunca falei o nome dela pra ninguém. Eu só falo dela com Deus, quando tô sozinho nesse carro."
+        ]
+      ]
+    },
+    {
+      "id": "B10",
+      "duracao": 10,
+      "cenario": "L1",
+      "plano": "close-up",
+      "acao": "The wanderer slowly lowers his hood, gentle smile.",
+      "falas": [
+        [
+          "ANDARILHO",
+          "gentle smile",
+          "Pois é. E hoje você parou o carro por mim. Quem acolhe um desses pequeninos, me acolhe."
+        ]
+      ]
+    },
+    {
+      "id": "B11",
+      "duracao": 10,
+      "cenario": "L1",
+      "plano": "medium close-up",
+      "acao": "Rafael turns around in the driver's seat to look at the back seat, amazed, tears on his face; warm golden light fills the car.",
+      "falas": [
+        [
+          "RAFAEL",
+          "amazed, whispering, teary",
+          "A roupa do senhor tá seca. Essa luz. É o Senhor!"
+        ]
+      ]
+    },
+    {
+      "id": "B12",
+      "duracao": 10,
+      "cenario": "L1",
+      "plano": "medium close-up",
+      "acao": "In the back seat now sits Jesus in an ivory robe, completely dry, warm golden light around him, smiling at Rafael.",
+      "falas": [
+        [
+          "JESUS",
+          "warm, serene",
+          "Rafael, a Sofia vai desenhar o céu por muitos anos. Amanhã, não tenha medo. Eu vou estar naquela sala com ela."
+        ]
+      ]
+    },
+    {
+      "id": "B13",
+      "duracao": 10,
+      "cenario": "L1",
+      "plano": "close-up",
+      "acao": "Rafael alone in the car, the back seat now empty and dry; he cries with joy, hands over his face, then looks up.",
+      "falas": [
+        [
+          "RAFAEL",
+          "crying with joy, speaking clearly",
+          "Sumiu. O banco tá seco. Obrigado, Senhor. Obrigado por ter entrado no meu carro."
+        ]
+      ]
+    },
+    {
+      "id": "B14",
+      "duracao": 10,
+      "cenario": "L3",
+      "dupla": "RAFAEL",
+      "acao": "The next morning in the hospital corridor, the doctor shows Rafael a tablet, amazed; Rafael listens, holding his breath.",
+      "falas": [
+        [
+          "MEDICA",
+          "amazed, professional",
+          "Seu Rafael, eu não sei explicar. O exame de ontem mostrava o problema. Hoje o coração da Sofia está perfeito. Ela não precisa mais de cirurgia."
+        ]
+      ]
+    },
+    {
+      "id": "B15",
+      "duracao": 10,
+      "cenario": "L3",
+      "plano": "close-up",
+      "acao": "Rafael smiles through tears in the sunny hospital corridor.",
+      "falas": [
+        [
+          "RAFAEL",
+          "moved, smiling through tears",
+          "Eu sei explicar, doutora. Ontem à noite, na chuva, eu dei carona pra Jesus."
+        ]
+      ]
+    },
+    {
+      "id": "B16",
+      "duracao": 10,
+      "cenario": "L3",
+      "plano": "close-up",
+      "personagens": [
+        "JESUS"
+      ],
+      "acao": "Jesus alone at the end of the sunny hospital corridor, looking straight into the camera with a gentle smile.",
+      "falas": [
+        [
+          "JESUS",
+          "gentle, looking into the camera",
+          "Todo dia eu passo pelo seu caminho disfarçado de alguém que precisa. Hoje, você parou? Escreve amém e de qual cidade você está assistindo."
+        ]
+      ]
+    }
+  ]
+}

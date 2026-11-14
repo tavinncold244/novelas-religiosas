@@ -1,0 +1,80 @@
+{
+  "ancorado": true,
+  "silencio_extra": true,
+  "musica": "musica/fe_sad_piano_rain.mp3",
+  "volume_musica": 0.12,
+  "clipes": [
+    {
+      "arquivo": "clipes/B01_t4.mp4",
+      "bloco": "B01"
+    },
+    {
+      "arquivo": "clipes/B02_t1.mp4",
+      "bloco": "B02"
+    },
+    {
+      "arquivo": "clipes/B03_t1.mp4",
+      "bloco": "B03"
+    },
+    {
+      "arquivo": "clipes/B04_t4.mp4",
+      "bloco": "B04"
+    },
+    {
+      "arquivo": "clipes/B05_t1.mp4",
+      "bloco": "B05"
+    },
+    {
+      "arquivo": "clipes/B06_t1.mp4",
+      "bloco": "B06"
+    },
+    {
+      "arquivo": "clipes/B07_t2.mp4",
+      "bloco": "B07"
+    },
+    {
+      "arquivo": "clipes/B08_t3.mp4",
+      "bloco": "B08"
+    },
+    {
+      "arquivo": "clipes/B09_t2.mp4",
+      "bloco": "B09"
+    },
+    {
+      "arquivo": "clipes/B10_t4.mp4",
+      "bloco": "B10"
+    },
+    {
+      "arquivo": "clipes/B11_t2.mp4",
+      "bloco": "B11"
+    },
+    {
+      "arquivo": "clipes/B12_t1.mp4",
+      "bloco": "B12"
+    },
+    {
+      "arquivo": "clipes/B13_t1.mp4",
+      "bloco": "B13"
+    },
+    {
+      "arquivo": "clipes/B14_t1.mp4",
+      "bloco": "B14"
+    },
+    {
+      "arquivo": "clipes/B15_t1.mp4",
+      "bloco": "B15"
+    },
+    {
+      "arquivo": "clipes/B16_t1.mp4",
+      "bloco": "B16"
+    },
+    {
+      "arquivo": "clipes/B17_t1.mp4",
+      "bloco": "B17"
+    },
+    {
+      "arquivo": "clipes/B18_t3.mp4",
+      "bloco": "B18"
+    }
+  ]
+}

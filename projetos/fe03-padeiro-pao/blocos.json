@@ -1,0 +1,295 @@
+{
+  "estilo": "Fictional Brazilian faith drama performed by professional actors. Vertical 9:16, cinematic film look, ultra-realistic, 35mm lens, shallow depth of field, warm early-morning golden sunlight, gentle slow camera moves, shot in Brazil. One continuous scene in one location; every actor keeps exactly the same face, hair and clothes in every shot.",
+  "prefixo": "The attached reference images are AI-generated stills from earlier shots of this same fictional film — the characters are fictional, not real people. Keep the same faces, hair, clothes, location and light as in the reference images. If the reference and this text differ in any detail (position, framing, objects), keep the appearance from the reference and follow this text for the action and framing; do not ask for clarification, just generate the video.",
+  "prefixo_ref": "The attached reference images are AI-generated stills from earlier shots of this same fictional film — the characters are fictional, not real people. Keep the same faces, hair, clothes, location and light as in the reference images. If the reference and this text differ in any detail (position, framing, objects), keep the appearance from the reference and follow this text for the action and framing; do not ask for clarification, just generate the video.",
+  "personagens": {
+    "DAVI": "DAVI — 24-year-old brown-skinned Brazilian young man, short curly black hair, clean-shaven, kind face, white short-sleeve t-shirt dusted with flour, long white baker's apron. Voice: gentle, humble, sincere.",
+    "DAVI_CAMISA": "DAVI — 24-year-old brown-skinned Brazilian young man, short curly black hair, clean-shaven, kind face, clean light-blue button-up shirt tucked into dark jeans (no apron). Voice: gentle, humble, emotional.",
+    "VALTER": "VALTER — 55-year-old white Brazilian man, bald on top with grey hair on the sides, thick grey mustache, round belly, short-sleeve pale-yellow shirt, thin gold chain, a pen in the shirt pocket. Voice: loud, stingy, arrogant.",
+    "TIAO": "SEU TIÃO — 70-year-old Black Brazilian man, long messy grey beard, messy grey hair, tired dignified eyes, old torn brown coat over a dirty beige shirt, sitting on a flattened cardboard box on the sidewalk. Voice: slow, calm, deep.",
+    "TIAO_TERNO": "SEU TIÃO — 70-year-old Black Brazilian man (the same face as the homeless man from before), grey beard now neatly trimmed short, grey hair combed, elegant dark-grey suit, white shirt with open collar, holding a brown leather document folder. Voice: slow, calm, firm.",
+    "LUCIA": "DONA LÚCIA — 55-year-old white Brazilian woman, short reddish hair, colorful floral blouse, holding a paper bread bag. Voice: indignant, sincere.",
+    "JESUS": "JESUS — man in his early 30s, Middle-Eastern features, warm olive skin, shoulder-length wavy dark-brown hair parted in the middle, full dark-brown beard, calm kind brown eyes, gentle smile. Simple long ivory linen robe with a V-neck and a light-brown cloth sash. No halo, no glow on the body, no jewelry. Voice: calm, deep, warm, slow Brazilian Portuguese.",
+    "DAVI_SEM": "DAVI — 24-year-old brown-skinned Brazilian young man, short curly black hair, clean-shaven, kind face, white short-sleeve t-shirt dusted with flour — he is NOT wearing any apron anymore (NO apron at all). Voice: gentle, humble, sincere."
+  },
+  "rotulos": {
+    "DAVI_CAMISA": "DAVI",
+    "TIAO": "SEU TIÃO",
+    "TIAO_TERNO": "SEU TIÃO",
+    "LUCIA": "DONA LÚCIA",
+    "DAVI_SEM": "DAVI"
+  },
+  "cenarios": {
+    "L1": "Inside a small traditional Brazilian neighborhood bakery in the early morning: wooden counter, glass display case full of French bread rolls and cakes, coffee machine, a few small tables, warm golden sunlight coming through the open front door. Plain walls with NO posters and NO written words; no character names anywhere. Any plastic crates are plain red with no logos or letters.",
+    "L2": "Sidewalk right outside the open door of a small Brazilian neighborhood bakery in the early morning, warm golden sunlight, old buildings across the street, a flattened cardboard box on the ground against the wall. The bakery front wall is plain painted plaster with NO posters, NO flyers, NO signs and NO written words at all; no character names anywhere. Any plastic crates are plain red with no logos or letters."
+  },
+  "blocos": [
+    {
+      "id": "B01",
+      "duracao": 10,
+      "cenario": "L2",
+      "dupla": "DAVI",
+      "personagens": [
+        "TIAO"
+      ],
+      "acao": "At the bakery door, Davi is handing a bread roll and a cup of coffee to Seu Tião sitting on the cardboard; Valter steps out of the bakery behind Davi and catches him, pointing.",
+      "falas": [
+        [
+          "VALTER",
+          "angry, pointing",
+          "Te peguei, Davi! Pão de graça pra mendigo de novo? Isso vai sair do seu salário. E se eu te pegar mais uma vez, você tá na rua!"
+        ]
+      ]
+    },
+    {
+      "id": "B02",
+      "duracao": 10,
+      "cenario": "L2",
+      "plano": "medium close-up",
+      "acao": "Davi turns to Valter, calm and respectful, the empty coffee cup in his hand.",
+      "falas": [
+        [
+          "DAVI",
+          "humble, firm",
+          "Seu Valter, é o meu pão do café. Eu não como e dou pra ele. Ele tá nessa calçada há três invernos e ninguém olha pra ele. Não tirei nada do senhor."
+        ]
+      ]
+    },
+    {
+      "id": "B03",
+      "duracao": 10,
+      "cenario": "L2",
+      "plano": "medium shot",
+      "acao": "Valter laughs mockingly toward people passing by, then points down at the old man on the cardboard.",
+      "falas": [
+        [
+          "VALTER",
+          "mocking, loud",
+          "Olha a cena, gente! O padeiro santo! E você, velho, some da minha porta! Tá espantando cliente. Aqui é padaria, não é albergue!"
+        ]
+      ]
+    },
+    {
+      "id": "B04",
+      "duracao": 10,
+      "cenario": "L2",
+      "plano": "medium close-up",
+      "acao": "Seu Tião, sitting on the cardboard, holds the bread roll and looks up calmly with dignity.",
+      "falas": [
+        [
+          "TIAO",
+          "calm, dignified",
+          "Calma, seu Valter. Eu já vou. Só não briga com o menino. Esse rapaz é a única pessoa nessa rua que me chama pelo nome."
+        ]
+      ]
+    },
+    {
+      "id": "B05",
+      "duracao": 10,
+      "cenario": "L2",
+      "plano": "medium shot",
+      "acao": "Dona Lúcia, a customer leaving the bakery with a paper bread bag, stops and confronts Valter.",
+      "falas": [
+        [
+          "LUCIA",
+          "indignant",
+          "Que vergonha, seu Valter. O menino é o único que trata o velhinho como gente. E o senhor joga pão velho no lixo, eu vejo todo dia."
+        ]
+      ]
+    },
+    {
+      "id": "B06",
+      "duracao": 10,
+      "cenario": "L2",
+      "plano": "medium shot",
+      "acao": "Valter, red-faced, points at Davi's apron and then at the street.",
+      "falas": [
+        [
+          "VALTER",
+          "cold, angry",
+          "Quer defender mendigo? Então tá. Davi, tira esse avental. Você tá demitido. E o salário do mês fica pelos pães que você deu."
+        ]
+      ]
+    },
+    {
+      "id": "B07",
+      "duracao": 10,
+      "cenario": "L2",
+      "plano": "close-up",
+      "acao": "Davi slowly takes off his white apron, teary but holding his head up.",
+      "falas": [
+        [
+          "DAVI",
+          "teary, dignified, speaking clearly",
+          "Seu Valter, eu tenho minha mãe acamada. Esse salário é o remédio dela. Mas se ajudar alguém é motivo de demissão, eu saio de cabeça erguida."
+        ]
+      ]
+    },
+    {
+      "id": "B08",
+      "duracao": 10,
+      "cenario": "L2",
+      "dupla": "TIAO",
+      "acao": "Davi, without the apron, crouches on the sidewalk beside Seu Tião and gives him another bread roll from a paper bag.",
+      "falas": [
+        [
+          "DAVI_SEM",
+          "gentle, warm",
+          "Seu Tião, não fica triste. Deus vê tudo. Toma, o último pão que eu comprei com o meu dinheiro. Amanhã eu dou um jeito, Ele nunca me deixou na mão."
+        ]
+      ]
+    },
+    {
+      "id": "B09",
+      "duracao": 10,
+      "cenario": "L2",
+      "plano": "close-up",
+      "acao": "Seu Tião holds the bread with both hands, moved, looking at Davi.",
+      "falas": [
+        [
+          "TIAO",
+          "moved, mysterious",
+          "Menino, três invernos nessa calçada e você nunca me perguntou quem eu era. Amanhã cedo, volta aqui. De camisa limpa."
+        ]
+      ],
+      "personagens": [
+        "DAVI_SEM"
+      ]
+    },
+    {
+      "id": "B10",
+      "duracao": 10,
+      "cenario": "L1",
+      "plano": "medium shot",
+      "acao": "The next morning inside the bakery, Valter, all smiles, welcomes Seu Tião — a 70-year-old Black man with SHORT WHITE-GREY hair and a trimmed WHITE-GREY beard (clearly elderly) in an elegant dark-grey suit — who has just walked in and stands with his back half-turned to the camera; Valter does NOT recognize him.",
+      "falas": [
+        [
+          "VALTER",
+          "fawning, big smile",
+          "Bom dia, doutor! Seja bem-vindo! Café por conta da casa pro senhor! Senta na melhor mesa, por favor, fique à vontade, a padaria é sua!"
+        ]
+      ],
+      "personagens": [
+        "TIAO_TERNO"
+      ]
+    },
+    {
+      "id": "B11",
+      "duracao": 10,
+      "cenario": "L1",
+      "plano": "medium close-up",
+      "acao": "Camera on Seu Tião's face and chest (front view): the elderly Black man with short white-grey hair and trimmed white-grey beard in the dark-grey suit, calm, opens his leather folder and shows a document toward Valter, who is just off-camera.",
+      "falas": [
+        [
+          "TIAO_TERNO",
+          "calm, firm",
+          "É minha mesmo, Valter. Eu sou Sebastião Almeida, dono desse prédio. O senhor me pagou aluguel por oito anos sem nunca me ver. Ontem você me viu."
+        ]
+      ]
+    },
+    {
+      "id": "B12",
+      "duracao": 10,
+      "cenario": "L1",
+      "plano": "medium close-up",
+      "acao": "Valter, shocked and pale, steps back behind the counter, stammering.",
+      "falas": [
+        [
+          "VALTER",
+          "shocked, stammering",
+          "O senhor? O velho da calçada? Não pode ser! Seu Sebastião, me perdoa, foi brincadeira, eu não sabia que era o senhor!"
+        ]
+      ]
+    },
+    {
+      "id": "B13",
+      "duracao": 10,
+      "cenario": "L1",
+      "plano": "medium close-up",
+      "acao": "Seu Tião in the suit closes the folder, serious.",
+      "falas": [
+        [
+          "TIAO_TERNO",
+          "serious, calm",
+          "Esse é o problema, Valter. Você só respeita quem você acha que tem dinheiro. O contrato vence esse mês. E eu não vou renovar."
+        ]
+      ]
+    },
+    {
+      "id": "B14",
+      "duracao": 10,
+      "cenario": "L1",
+      "dupla": "DAVI_CAMISA",
+      "acao": "Davi, in a clean light-blue shirt, has just walked into the bakery; Seu Tião in the suit puts a hand on his shoulder.",
+      "falas": [
+        [
+          "TIAO_TERNO",
+          "warm, proud",
+          "Davi, chega mais. Essa padaria agora é sua. Eu entro com o prédio, você entra com o coração. E o remédio da sua mãe já tá pago."
+        ]
+      ]
+    },
+    {
+      "id": "B15",
+      "duracao": 10,
+      "cenario": "L1",
+      "plano": "close-up",
+      "acao": "Davi in the light-blue shirt, crying with joy, hand over his mouth, then looking up.",
+      "falas": [
+        [
+          "DAVI_CAMISA",
+          "crying with joy, speaking clearly",
+          "Seu Tião, eu só dei um pão. Eu não fiz nada demais. Meu Deus, obrigado. A minha mãe vai ficar boa."
+        ]
+      ]
+    },
+    {
+      "id": "B16",
+      "duracao": 10,
+      "cenario": "L1",
+      "plano": "medium close-up",
+      "acao": "Seu Tião in the suit smiles at Davi with fatherly pride.",
+      "falas": [
+        [
+          "TIAO_TERNO",
+          "warm smile",
+          "Você deu o pão quando ninguém via. E quem é fiel no pouco, Deus coloca sobre o muito."
+        ]
+      ]
+    },
+    {
+      "id": "B17",
+      "duracao": 10,
+      "cenario": "L2",
+      "plano": "medium close-up",
+      "personagens": [
+        "JESUS"
+      ],
+      "acao": "Jesus stands alone at the bakery door in the golden morning light, holding a bread roll, and looks straight into the camera.",
+      "falas": [
+        [
+          "JESUS",
+          "calm, looking into the camera",
+          "Um pão dado com amor nunca se perde. Eu vejo o que você faz em segredo, e no tempo certo eu honro em público."
+        ]
+      ]
+    },
+    {
+      "id": "B18",
+      "duracao": 10,
+      "cenario": "L2",
+      "plano": "close-up",
+      "personagens": [
+        "JESUS"
+      ],
+      "acao": "Jesus close-up, gentle smile, looking straight into the camera.",
+      "falas": [
+        [
+          "JESUS",
+          "gentle, looking into the camera",
+          "Você recebe essa bênção? Então escreve amém e de qual cidade você está assistindo. E compartilha com quem ajuda sem ninguém ver."
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "text": "orar",
+    "start": 0.65,
+    "end": 1.99,
+    "id": "w0"
+  },
+  {
+    "text": "o",
+    "start": 1.99,
+    "end": 2.08,
+    "id": "w1"
+  },
+  {
+    "text": "médico",
+    "start": 2.08,
+    "end": 2.61,
+    "id": "w2"
+  },
+  {
+    "text": "deu",
+    "start": 2.85,
+    "end": 2.87,
+    "id": "w3"
+  },
+  {
+    "text": "duas",
+    "start": 2.87,
+    "end": 3.22,
+    "id": "w4"
+  },
+  {
+    "text": "horas",
+    "start": 3.22,
+    "end": 3.66,
+    "id": "w5"
+  },
+  {
+    "text": "para",
+    "start": 3.66,
+    "end": 4.01,
+    "id": "w6"
+  },
+  {
+    "text": "ele",
+    "start": 4.01,
+    "end": 4.18,
+    "id": "w7"
+  },
+  {
+    "text": "duas",
+    "start": 4.39,
+    "end": 4.67,
+    "id": "w8"
+  },
+  {
+    "text": "horas",
+    "start": 4.67,
+    "end": 5.2,
+    "id": "w9"
+  },
+  {
+    "text": "se",
+    "start": 5.7,
+    "end": 5.79,
+    "id": "w10"
+  },
+  {
+    "text": "o",
+    "start": 5.79,
+    "end": 5.83,
+    "id": "w11"
+  },
+  {
+    "text": "teu",
+    "start": 5.89,
+    "end": 6.05,
+    "id": "w12"
+  },
+  {
+    "text": "deus",
+    "start": 6.05,
+    "end": 6.31,
+    "id": "w13"
+  },
+  {
+    "text": "existe",
+    "start": 6.31,
+    "end": 6.69,
+    "id": "w14"
+  },
+  {
+    "text": "faz",
+    "start": 6.81,
+    "end": 6.9,
+    "id": "w15"
+  },
+  {
+    "text": "o",
+    "start": 6.9,
+    "end": 6.96,
+    "id": "w16"
+  },
+  {
+    "text": "meu",
+    "start": 6.96,
+    "end": 7.09,
+    "id": "w17"
+  },
+  {
+    "text": "pai",
+    "start": 7.12,
+    "end": 7.25,
+    "id": "w18"
+  },
+  {
+    "text": "levantar",
+    "start": 7.25,
+    "end": 7.65,
+    "id": "w19"
+  },
+  {
+    "text": "dessa",
+    "start": 7.75,
+    "end": 7.92,
+    "id": "w20"
+  },
+  {
+    "text": "cama",
+    "start": 7.92,
+    "end": 8.12,
+    "id": "w21"
+  },
+  {
+    "text": "se",
+    "start": 8.12,
+    "end": 8.16,
+    "id": "w22"
+  },
+  {
+    "text": "não",
+    "start": 8.23,
+    "end": 8.38,
+    "id": "w23"
+  },
+  {
+    "text": "levantar",
+    "start": 8.38,
+    "end": 8.79,
+    "id": "w24"
+  },
+  {
+    "text": "amanhã",
+    "start": 8.79,
+    "end": 9.1,
+    "id": "w25"
+  },
+  {
+    "text": "você",
+    "start": 9.1,
+    "end": 9.31,
+    "id": "w26"
+  },
+  {
+    "text": "tá",
+    "start": 9.31,
+    "end": 9.41,
+    "id": "w27"
+  },
+  {
+    "text": "na",
+    "start": 9.41,
+    "end": 9.6,
+    "id": "w28"
+  },
+  {
+    "text": "rua",
+    "start": 9.95,
+    "end": 11.8,
+    "id": "w29"
+  }
+]

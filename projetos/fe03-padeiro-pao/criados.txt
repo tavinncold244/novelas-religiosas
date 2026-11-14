@@ -1,0 +1,34 @@
+B01 t1 2859ecc2-a775-48bf-8280-1618c11c2a5c 
+B01 t2 43dd2c2b-4281-4a35-9f08-79a7580aa923 
+B01 t3 a6624193-0689-4984-9c1b-b8ab7b605290 
+B01 t4 8c675213-5aea-428c-8f54-5a58b521169a 
+B02 t1 ea70dc43-fe62-4cdc-af69-060de42daa8a clipes/B01_t4_ultimo.jpg
+B03 t1 cd06baaf-942f-459f-a223-c1e87016edbb clipes/B02_t1_ultimo.jpg,ref_valter.jpg
+B04 t1 b0de5abd-a2ce-4a76-a907-3ddaf70d3e86 clipes/B03_t1_ultimo.jpg,ref_tiao.jpg
+B04 t2 603abfc4-aa7d-4894-af2c-096e6735251e clipes/B03_t1_ultimo.jpg,ref_tiao.jpg
+B04 t3 589dddae-a440-4efc-aad2-d3e0cb78cfdb clipes/B03_t1_ultimo.jpg,ref_tiao.jpg
+B04 t4 79a2c8ee-0e22-4c43-902f-e8bdf883fdf3 clipes/B03_t1_ultimo.jpg,ref_tiao.jpg
+B05 t1 c164bb95-500e-4e55-9652-3626b088735f clipes/B04_t4_ultimo.jpg
+B06 t1 5c63346c-3dd4-47c2-a1d3-fc3a30e27d60 clipes/B05_t1_ultimo.jpg,ref_valter.jpg,ref_davi.jpg
+B07 t1 25bf5a71-3478-42b7-a692-ffa238adc46a clipes/B06_t1_ultimo.jpg,ref_davi.jpg
+B07 t2 81f5f21a-b4d6-4d3e-a982-40dbdd87db4e clipes/B06_t1_ultimo.jpg,ref_davi.jpg
+B08 t1 d929e9d2-7022-4567-a0f9-6ff395a6bdd6 clipes/B07_t2_ultimo.jpg,ref_tiao.jpg
+B08 t2 45e10923-74ab-4f8b-82e7-3bc09d1e6bec clipes/B07_t2_ultimo.jpg,ref_tiao.jpg
+B08 t3 6a61d553-38aa-4378-95ec-017a723495a5 clipes/B07_t2_ultimo.jpg,ref_tiao2.jpg
+B09 t1 9f1d7ef9-0202-4d97-a365-02b620630042 clipes/B08_t3_ultimo.jpg
+B09 t2 3736af8a-9220-46e7-8287-16f8b596d29a clipes/B08_t3_ultimo.jpg
+B10 t1 394b536e-ed12-4e5c-8997-c9be0663c2b7 ref_valter.jpg
+B10 t2 a2669c79-5645-4fd4-a678-5268a882f19d ref_valter.jpg,ref_tiao2.jpg
+B10 t3 63089936-3b0d-443f-9037-b13b30d78771 ref_padaria.jpg,ref_tiao2.jpg
+B10 t4 ddb98289-3834-4adf-a6df-70e6f1c962e5 ref_padaria.jpg,ref_tiao2.jpg
+B11 t1 8b534881-be98-42e1-a140-e13986ec50a0 clipes/B10_t4_ultimo.jpg
+B11 t2 f3ea331b-f7b0-4888-9f6d-5cc60623ffb7 clipes/B10_t4_ultimo.jpg,ref_padaria.jpg
+B12 t1 53c8de26-4e17-4393-b8b0-e1067928fb71 clipes/B11_t2_ultimo.jpg,ref_padaria.jpg
+B13 t1 439b13eb-3113-46a7-ad63-7d98b1c4409b clipes/B12_t1_ultimo.jpg,ref_tiao_terno.jpg
+B14 t1 62d11818-e09e-40c5-948e-814cf430a92d clipes/B13_t1_ultimo.jpg,ref_davi_rosto.jpg
+B15 t1 185357bb-ebde-4688-9cad-7ec21aef553e clipes/B14_t1_ultimo.jpg
+B16 t1 1ab656f8-e901-41f0-b966-6aad21414399 clipes/B15_t1_ultimo.jpg,ref_tiao_terno.jpg
+B17 t1 de4b475a-fea6-4c72-9b85-4869be106452 ref_jesus.jpg,clipes/B16_t1_ultimo.jpg
+B18 t1 fd1b4031-7606-4b82-bc8a-7e755061c837 clipes/B17_t1_ultimo.jpg
+B18 t2 9e9fb186-8980-46b9-93bd-f672400ed0c9 clipes/B17_t1_ultimo.jpg
+B18 t3 e5acc542-54b9-495e-8100-37b3ee1234fd clipes/B17_t1_ultimo.jpg

@@ -1,0 +1,146 @@
+[
+  {
+    "text": "É",
+    "start": 0.01,
+    "end": 0.1,
+    "id": "w0"
+  },
+  {
+    "text": "exatamente",
+    "start": 0.1,
+    "end": 1.1,
+    "id": "w1"
+  },
+  {
+    "text": "aí",
+    "start": 1.1,
+    "end": 1.32,
+    "id": "w2"
+  },
+  {
+    "text": "que",
+    "start": 1.32,
+    "end": 1.57,
+    "id": "w3"
+  },
+  {
+    "text": "você",
+    "start": 1.63,
+    "end": 2,
+    "id": "w4"
+  },
+  {
+    "text": "começa",
+    "start": 2,
+    "end": 2.6,
+    "id": "w5"
+  },
+  {
+    "text": "a",
+    "start": 2.63,
+    "end": 2.7,
+    "id": "w6"
+  },
+  {
+    "text": "ser",
+    "start": 2.7,
+    "end": 2.95,
+    "id": "w7"
+  },
+  {
+    "text": "alguém",
+    "start": 2.95,
+    "end": 3.43,
+    "id": "w8"
+  },
+  {
+    "text": "filho.",
+    "start": 3.43,
+    "end": 5.24,
+    "id": "w9"
+  },
+  {
+    "text": "Ninguém",
+    "start": 5.25,
+    "end": 5.66,
+    "id": "w10"
+  },
+  {
+    "text": "entra",
+    "start": 5.66,
+    "end": 5.96,
+    "id": "w11"
+  },
+  {
+    "text": "no",
+    "start": 5.96,
+    "end": 6.08,
+    "id": "w12"
+  },
+  {
+    "text": "meu",
+    "start": 6.08,
+    "end": 6.26,
+    "id": "w13"
+  },
+  {
+    "text": "barco",
+    "start": 6.26,
+    "end": 6.56,
+    "id": "w14"
+  },
+  {
+    "text": "carregando",
+    "start": 6.56,
+    "end": 7.16,
+    "id": "w15"
+  },
+  {
+    "text": "o",
+    "start": 7.16,
+    "end": 7.22,
+    "id": "w16"
+  },
+  {
+    "text": "mundo",
+    "start": 7.22,
+    "end": 7.52,
+    "id": "w17"
+  },
+  {
+    "text": "nas",
+    "start": 7.52,
+    "end": 7.7,
+    "id": "w18"
+  },
+  {
+    "text": "costas.",
+    "start": 7.7,
+    "end": 8.31,
+    "id": "w19"
+  },
+  {
+    "text": "Eu",
+    "start": 8.33,
+    "end": 8.46,
+    "id": "w20"
+  },
+  {
+    "text": "estou",
+    "start": 8.46,
+    "end": 8.81,
+    "id": "w21"
+  },
+  {
+    "text": "aqui.",
+    "start": 8.81,
+    "end": 9.32,
+    "id": "w22"
+  },
+  {
+    "text": "Solta.",
+    "start": 9.33,
+    "end": 9.92,
+    "id": "w23"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "text": "Que",
+    "start": 0.04,
+    "end": 0.35,
+    "id": "w0"
+  },
+  {
+    "text": "luz",
+    "start": 0.36,
+    "end": 0.7,
+    "id": "w1"
+  },
+  {
+    "text": "é",
+    "start": 0.7,
+    "end": 0.81,
+    "id": "w2"
+  },
+  {
+    "text": "essa,",
+    "start": 0.81,
+    "end": 1.5,
+    "id": "w3"
+  },
+  {
+    "text": "minha",
+    "start": 1.5,
+    "end": 2.08,
+    "id": "w4"
+  },
+  {
+    "text": "filha?",
+    "start": 2.08,
+    "end": 3.04,
+    "id": "w5"
+  },
+  {
+    "text": "Eu",
+    "start": 3.08,
+    "end": 3.18,
+    "id": "w6"
+  },
+  {
+    "text": "sonhei",
+    "start": 3.18,
+    "end": 3.6,
+    "id": "w7"
+  },
+  {
+    "text": "com",
+    "start": 3.6,
+    "end": 3.81,
+    "id": "w8"
+  },
+  {
+    "text": "um",
+    "start": 3.81,
+    "end": 3.95,
+    "id": "w9"
+  },
+  {
+    "text": "homem",
+    "start": 3.95,
+    "end": 4.3,
+    "id": "w10"
+  },
+  {
+    "text": "de",
+    "start": 4.3,
+    "end": 4.33,
+    "id": "w11"
+  },
+  {
+    "text": "branco",
+    "start": 4.45,
+    "end": 4.9,
+    "id": "w12"
+  },
+  {
+    "text": "segurando",
+    "start": 4.9,
+    "end": 6.03,
+    "id": "w13"
+  },
+  {
+    "text": "a",
+    "start": 6.03,
+    "end": 6.15,
+    "id": "w14"
+  },
+  {
+    "text": "minha",
+    "start": 6.46,
+    "end": 6.78,
+    "id": "w15"
+  },
+  {
+    "text": "mão.",
+    "start": 6.78,
+    "end": 7.34,
+    "id": "w16"
+  },
+  {
+    "text": "Cadê",
+    "start": 7.38,
+    "end": 7.64,
+    "id": "w17"
+  },
+  {
+    "text": "o",
+    "start": 7.66,
+    "end": 7.71,
+    "id": "w18"
+  },
+  {
+    "text": "meu",
+    "start": 7.71,
+    "end": 7.94,
+    "id": "w19"
+  },
+  {
+    "text": "menino?",
+    "start": 7.94,
+    "end": 8.61,
+    "id": "w20"
+  },
+  {
+    "text": "Cadê",
+    "start": 8.68,
+    "end": 9.02,
+    "id": "w21"
+  },
+  {
+    "text": "o",
+    "start": 9.06,
+    "end": 9.13,
+    "id": "w22"
+  },
+  {
+    "text": "Bruno?",
+    "start": 9.13,
+    "end": 9.91,
+    "id": "w23"
+  }
+]

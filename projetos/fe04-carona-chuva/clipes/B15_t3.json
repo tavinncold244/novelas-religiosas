@@ -1,0 +1,86 @@
+[
+  {
+    "text": "Eu",
+    "start": 0.04,
+    "end": 0.18,
+    "id": "w0"
+  },
+  {
+    "text": "sei",
+    "start": 0.18,
+    "end": 0.45,
+    "id": "w1"
+  },
+  {
+    "text": "explicar,",
+    "start": 0.45,
+    "end": 1.35,
+    "id": "w2"
+  },
+  {
+    "text": "doutora.",
+    "start": 1.35,
+    "end": 2.48,
+    "id": "w3"
+  },
+  {
+    "text": "Ontem",
+    "start": 2.48,
+    "end": 2.88,
+    "id": "w4"
+  },
+  {
+    "text": "à",
+    "start": 2.88,
+    "end": 2.96,
+    "id": "w5"
+  },
+  {
+    "text": "noite,",
+    "start": 2.96,
+    "end": 3.54,
+    "id": "w6"
+  },
+  {
+    "text": "na",
+    "start": 3.7,
+    "end": 3.86,
+    "id": "w7"
+  },
+  {
+    "text": "chuva,",
+    "start": 3.86,
+    "end": 5,
+    "id": "w8"
+  },
+  {
+    "text": "eu",
+    "start": 5,
+    "end": 5.57,
+    "id": "w9"
+  },
+  {
+    "text": "dei",
+    "start": 6.12,
+    "end": 6.61,
+    "id": "w10"
+  },
+  {
+    "text": "carona",
+    "start": 6.61,
+    "end": 8.55,
+    "id": "w11"
+  },
+  {
+    "text": "pra",
+    "start": 8.56,
+    "end": 8.94,
+    "id": "w12"
+  },
+  {
+    "text": "Jesus.",
+    "start": 8.94,
+    "end": 9.86,
+    "id": "w13"
+  }
+]

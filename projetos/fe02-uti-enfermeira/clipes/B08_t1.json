@@ -1,0 +1,122 @@
+[
+  {
+    "text": "Rosa,",
+    "start": 0.01,
+    "end": 0.57,
+    "id": "w0"
+  },
+  {
+    "text": "a",
+    "start": 0.57,
+    "end": 0.66,
+    "id": "w1"
+  },
+  {
+    "text": "sua",
+    "start": 0.66,
+    "end": 0.95,
+    "id": "w2"
+  },
+  {
+    "text": "oração",
+    "start": 0.95,
+    "end": 1.52,
+    "id": "w3"
+  },
+  {
+    "text": "chegou",
+    "start": 1.52,
+    "end": 2.1,
+    "id": "w4"
+  },
+  {
+    "text": "antes",
+    "start": 2.1,
+    "end": 2.58,
+    "id": "w5"
+  },
+  {
+    "text": "de",
+    "start": 2.58,
+    "end": 2.77,
+    "id": "w6"
+  },
+  {
+    "text": "você",
+    "start": 2.77,
+    "end": 3.16,
+    "id": "w7"
+  },
+  {
+    "text": "terminar.",
+    "start": 3.16,
+    "end": 4,
+    "id": "w8"
+  },
+  {
+    "text": "Pode",
+    "start": 4.01,
+    "end": 4.42,
+    "id": "w9"
+  },
+  {
+    "text": "abrir",
+    "start": 4.42,
+    "end": 4.94,
+    "id": "w10"
+  },
+  {
+    "text": "os",
+    "start": 4.94,
+    "end": 5.15,
+    "id": "w11"
+  },
+  {
+    "text": "olhos.",
+    "start": 5.37,
+    "end": 6,
+    "id": "w12"
+  },
+  {
+    "text": "Augusto,",
+    "start": 6,
+    "end": 6.54,
+    "id": "w13"
+  },
+  {
+    "text": "seu",
+    "start": 6.54,
+    "end": 6.71,
+    "id": "w14"
+  },
+  {
+    "text": "filho",
+    "start": 6.71,
+    "end": 7.02,
+    "id": "w15"
+  },
+  {
+    "text": "precisa",
+    "start": 7.02,
+    "end": 7.44,
+    "id": "w16"
+  },
+  {
+    "text": "de",
+    "start": 7.44,
+    "end": 7.56,
+    "id": "w17"
+  },
+  {
+    "text": "você.",
+    "start": 7.56,
+    "end": 8,
+    "id": "w18"
+  },
+  {
+    "text": "Levanta.",
+    "start": 8.01,
+    "end": 10,
+    "id": "w19"
+  }
+]

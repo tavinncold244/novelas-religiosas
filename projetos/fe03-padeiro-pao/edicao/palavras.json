@@ -1,0 +1,3110 @@
+[
+ {
+  "text": "Te",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 0.07,
+  "end": 0.14
+ },
+ {
+  "text": "peguei,",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 0.14,
+  "end": 0.6
+ },
+ {
+  "text": "Davi!",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 0.71,
+  "end": 1.11
+ },
+ {
+  "text": "Pão",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 1.33,
+  "end": 1.47
+ },
+ {
+  "text": "de",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 1.47,
+  "end": 1.61
+ },
+ {
+  "text": "graça",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 1.61,
+  "end": 1.9
+ },
+ {
+  "text": "pra",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 1.96,
+  "end": 2.16
+ },
+ {
+  "text": "mendigo",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 2.17,
+  "end": 2.66
+ },
+ {
+  "text": "de",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 2.67,
+  "end": 2.8
+ },
+ {
+  "text": "novo?",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 2.8,
+  "end": 3.16
+ },
+ {
+  "text": "Isso",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 3.41,
+  "end": 3.5
+ },
+ {
+  "text": "vai",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 3.6,
+  "end": 3.72
+ },
+ {
+  "text": "sair",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 3.81,
+  "end": 3.94
+ },
+ {
+  "text": "do",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 4.05,
+  "end": 4.11
+ },
+ {
+  "text": "seu",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 4.11,
+  "end": 4.3
+ },
+ {
+  "text": "salário.",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 4.3,
+  "end": 4.95
+ },
+ {
+  "text": "E",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 4.95,
+  "end": 5.02
+ },
+ {
+  "text": "se",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 5.02,
+  "end": 5.14
+ },
+ {
+  "text": "eu",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 5.14,
+  "end": 5.16
+ },
+ {
+  "text": "te",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 5.26,
+  "end": 5.38
+ },
+ {
+  "text": "pegar",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 5.38,
+  "end": 5.61
+ },
+ {
+  "text": "mais",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 5.71,
+  "end": 5.95
+ },
+ {
+  "text": "uma",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 5.95,
+  "end": 6.12
+ },
+ {
+  "text": "vez,",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 6.33,
+  "end": 6.5
+ },
+ {
+  "text": "você",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 6.5,
+  "end": 6.81
+ },
+ {
+  "text": "tá",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 6.81,
+  "end": 6.9
+ },
+ {
+  "text": "na",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 6.96,
+  "end": 7.11
+ },
+ {
+  "text": "rua!",
+  "quem": "VALTER",
+  "fimFala": true,
+  "start": 7.11,
+  "end": 7.6
+ },
+ {
+  "text": "Seu",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 7.693,
+  "end": 7.833
+ },
+ {
+  "text": "Valter,",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 7.833,
+  "end": 8.363
+ },
+ {
+  "text": "é",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 8.363,
+  "end": 8.423
+ },
+ {
+  "text": "o",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 8.423,
+  "end": 8.483
+ },
+ {
+  "text": "meu",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 8.483,
+  "end": 8.543
+ },
+ {
+  "text": "pão",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 8.683,
+  "end": 8.873
+ },
+ {
+  "text": "do",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 8.873,
+  "end": 9.003
+ },
+ {
+  "text": "café.",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 9.003,
+  "end": 9.363
+ },
+ {
+  "text": "Eu",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 9.433,
+  "end": 9.493
+ },
+ {
+  "text": "não",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 9.513,
+  "end": 9.683
+ },
+ {
+  "text": "como",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 9.683,
+  "end": 9.923
+ },
+ {
+  "text": "e",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 9.923,
+  "end": 9.953
+ },
+ {
+  "text": "dou",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 10.043,
+  "end": 10.163
+ },
+ {
+  "text": "pra",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 10.163,
+  "end": 10.283
+ },
+ {
+  "text": "ele.",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 10.423,
+  "end": 10.543
+ },
+ {
+  "text": "Ele",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 10.553,
+  "end": 10.683
+ },
+ {
+  "text": "tá",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 10.683,
+  "end": 10.773
+ },
+ {
+  "text": "nessa",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 10.773,
+  "end": 10.983
+ },
+ {
+  "text": "calçada",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 11.073,
+  "end": 11.333
+ },
+ {
+  "text": "há",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 11.333,
+  "end": 11.333
+ },
+ {
+  "text": "três",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 11.333,
+  "end": 11.443
+ },
+ {
+  "text": "invernos",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 11.583,
+  "end": 11.953
+ },
+ {
+  "text": "e",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 11.953,
+  "end": 11.993
+ },
+ {
+  "text": "ninguém",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 12.003,
+  "end": 12.263
+ },
+ {
+  "text": "olha",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 12.353,
+  "end": 12.463
+ },
+ {
+  "text": "pra",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 12.463,
+  "end": 12.513
+ },
+ {
+  "text": "ele.",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 12.583,
+  "end": 12.853
+ },
+ {
+  "text": "Não",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 12.873,
+  "end": 13.003
+ },
+ {
+  "text": "tirei",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 13.003,
+  "end": 13.223
+ },
+ {
+  "text": "nada",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 13.223,
+  "end": 13.403
+ },
+ {
+  "text": "do",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 13.403,
+  "end": 13.473
+ },
+ {
+  "text": "senhor.",
+  "quem": "DAVI",
+  "fimFala": true,
+  "start": 13.523,
+  "end": 13.943
+ },
+ {
+  "text": "Olha",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 14.09,
+  "end": 14.37
+ },
+ {
+  "text": "a",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 14.38,
+  "end": 14.47
+ },
+ {
+  "text": "cena,",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 14.47,
+  "end": 15.02
+ },
+ {
+  "text": "gente!",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 15.02,
+  "end": 15.77
+ },
+ {
+  "text": "O",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 15.77,
+  "end": 15.85
+ },
+ {
+  "text": "padeiro",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 15.94,
+  "end": 16.51
+ },
+ {
+  "text": "santo!",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 16.51,
+  "end": 16.88
+ },
+ {
+  "text": "E",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 16.88,
+  "end": 17.12
+ },
+ {
+  "text": "você,",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 17.12,
+  "end": 17.81
+ },
+ {
+  "text": "velho,",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 17.81,
+  "end": 18.02
+ },
+ {
+  "text": "some",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 18.02,
+  "end": 18.16
+ },
+ {
+  "text": "da",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 18.2,
+  "end": 18.27
+ },
+ {
+  "text": "minha",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 18.27,
+  "end": 18.45
+ },
+ {
+  "text": "porta!",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 18.45,
+  "end": 19.13
+ },
+ {
+  "text": "Tá",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 19.21,
+  "end": 19.26
+ },
+ {
+  "text": "espantando",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 19.26,
+  "end": 19.92
+ },
+ {
+  "text": "cliente.",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 19.98,
+  "end": 20.5
+ },
+ {
+  "text": "Aqui",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 20.67,
+  "end": 20.76
+ },
+ {
+  "text": "é",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 20.83,
+  "end": 20.87
+ },
+ {
+  "text": "padaria,",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 20.87,
+  "end": 21.49
+ },
+ {
+  "text": "não",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 21.51,
+  "end": 21.71
+ },
+ {
+  "text": "é",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 21.71,
+  "end": 21.85
+ },
+ {
+  "text": "albergue!",
+  "quem": "VALTER",
+  "fimFala": true,
+  "start": 21.85,
+  "end": 22.41
+ },
+ {
+  "text": "Calma,",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 22.55,
+  "end": 22.86
+ },
+ {
+  "text": "seu",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 22.86,
+  "end": 22.98
+ },
+ {
+  "text": "Valter.",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 23.02,
+  "end": 23.48
+ },
+ {
+  "text": "Eu",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 23.48,
+  "end": 23.68
+ },
+ {
+  "text": "já",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 23.68,
+  "end": 23.88
+ },
+ {
+  "text": "vou.",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 23.88,
+  "end": 24.34
+ },
+ {
+  "text": "Só",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 24.34,
+  "end": 24.43
+ },
+ {
+  "text": "não",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 24.43,
+  "end": 24.57
+ },
+ {
+  "text": "briga",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 24.57,
+  "end": 24.8
+ },
+ {
+  "text": "com",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 24.8,
+  "end": 24.93
+ },
+ {
+  "text": "o",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 24.94,
+  "end": 24.98
+ },
+ {
+  "text": "menino.",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 24.98,
+  "end": 25.45
+ },
+ {
+  "text": "Esse",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 25.55,
+  "end": 25.75
+ },
+ {
+  "text": "rapaz",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 25.75,
+  "end": 26.08
+ },
+ {
+  "text": "é",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 26.08,
+  "end": 26.14
+ },
+ {
+  "text": "a",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 26.14,
+  "end": 26.19
+ },
+ {
+  "text": "única",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 26.2,
+  "end": 26.52
+ },
+ {
+  "text": "pessoa",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 26.6,
+  "end": 26.93
+ },
+ {
+  "text": "nessa",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 26.93,
+  "end": 27.22
+ },
+ {
+  "text": "rua",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 27.28,
+  "end": 27.52
+ },
+ {
+  "text": "que",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 27.52,
+  "end": 27.73
+ },
+ {
+  "text": "me",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 27.73,
+  "end": 27.85
+ },
+ {
+  "text": "chama",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 27.92,
+  "end": 28.21
+ },
+ {
+  "text": "pelo",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 28.21,
+  "end": 28.45
+ },
+ {
+  "text": "nome.",
+  "quem": "TIAO",
+  "fimFala": true,
+  "start": 28.57,
+  "end": 28.78
+ },
+ {
+  "text": "Que",
+  "quem": "LUCIA",
+  "fimFala": false,
+  "start": 28.867,
+  "end": 29.087
+ },
+ {
+  "text": "vergonha,",
+  "quem": "LUCIA",
+  "fimFala": false,
+  "start": 29.087,
+  "end": 29.847
+ },
+ {
+  "text": "seu",
+  "quem": "LUCIA",
+  "fimFala": false,
+  "start": 29.947,
+  "end": 30.117
+ },
+ {
+  "text": "Valter.",
+  "quem": "LUCIA",
+  "fimFala": false,
+  "start": 30.117,
+  "end": 30.687
+ },
+ {
+  "text": "O",
+  "quem": "LUCIA",
+  "fimFala": false,
+  "start": 30.687,
+  "end": 30.747
+ },
+ {
+  "text": "menino",
+  "quem": "LUCIA",
+  "fimFala": false,
+  "start": 30.747,
+  "end": 31.127
+ },
+ {
+  "text": "é",
+  "quem": "LUCIA",
+  "fimFala": false,
+  "start": 31.127,
+  "end": 31.187
+ },
+ {
+  "text": "o",
+  "quem": "LUCIA",
+  "fimFala": false,
+  "start": 31.187,
+  "end": 31.247
+ },
+ {
+  "text": "único",
+  "quem": "LUCIA",
+  "fimFala": false,
+  "start": 31.247,
+  "end": 31.567
+ },
+ {
+  "text": "que",
+  "quem": "LUCIA",
+  "fimFala": false,
+  "start": 31.567,
+  "end": 31.687
+ },
+ {
+  "text": "trata",
+  "quem": "LUCIA",
+  "fimFala": false,
+  "start": 31.787,
+  "end": 32.077
+ },
+ {
+  "text": "o",
+  "quem": "LUCIA",
+  "fimFala": false,
+  "start": 32.077,
+  "end": 32.137
+ },
+ {
+  "text": "velhinho",
+  "quem": "LUCIA",
+  "fimFala": false,
+  "start": 32.137,
+  "end": 32.687
+ },
+ {
+  "text": "como",
+  "quem": "LUCIA",
+  "fimFala": false,
+  "start": 32.687,
+  "end": 33.007
+ },
+ {
+  "text": "gente.",
+  "quem": "LUCIA",
+  "fimFala": false,
+  "start": 33.007,
+  "end": 33.577
+ },
+ {
+  "text": "E",
+  "quem": "LUCIA",
+  "fimFala": false,
+  "start": 33.577,
+  "end": 33.647
+ },
+ {
+  "text": "o",
+  "quem": "LUCIA",
+  "fimFala": false,
+  "start": 33.647,
+  "end": 33.767
+ },
+ {
+  "text": "senhor",
+  "quem": "LUCIA",
+  "fimFala": false,
+  "start": 33.767,
+  "end": 34.167
+ },
+ {
+  "text": "joga",
+  "quem": "LUCIA",
+  "fimFala": false,
+  "start": 34.167,
+  "end": 34.427
+ },
+ {
+  "text": "pão",
+  "quem": "LUCIA",
+  "fimFala": false,
+  "start": 34.427,
+  "end": 34.617
+ },
+ {
+  "text": "velho",
+  "quem": "LUCIA",
+  "fimFala": false,
+  "start": 34.617,
+  "end": 34.947
+ },
+ {
+  "text": "no",
+  "quem": "LUCIA",
+  "fimFala": false,
+  "start": 34.947,
+  "end": 35.077
+ },
+ {
+  "text": "lixo,",
+  "quem": "LUCIA",
+  "fimFala": false,
+  "start": 35.077,
+  "end": 35.417
+ },
+ {
+  "text": "eu",
+  "quem": "LUCIA",
+  "fimFala": false,
+  "start": 35.547,
+  "end": 35.597
+ },
+ {
+  "text": "vejo",
+  "quem": "LUCIA",
+  "fimFala": false,
+  "start": 35.597,
+  "end": 35.897
+ },
+ {
+  "text": "todo",
+  "quem": "LUCIA",
+  "fimFala": false,
+  "start": 35.897,
+  "end": 36.207
+ },
+ {
+  "text": "dia.",
+  "quem": "LUCIA",
+  "fimFala": true,
+  "start": 36.207,
+  "end": 36.667
+ },
+ {
+  "text": "Quer",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 36.8,
+  "end": 36.96
+ },
+ {
+  "text": "defender",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 36.96,
+  "end": 37.53
+ },
+ {
+  "text": "mendigo?",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 37.53,
+  "end": 38.03
+ },
+ {
+  "text": "Então",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 38.13,
+  "end": 38.64
+ },
+ {
+  "text": "tá.",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 38.64,
+  "end": 38.85
+ },
+ {
+  "text": "Davi,",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 38.92,
+  "end": 39.2
+ },
+ {
+  "text": "tira",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 39.21,
+  "end": 39.44
+ },
+ {
+  "text": "esse",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 39.45,
+  "end": 39.7
+ },
+ {
+  "text": "avental.",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 39.7,
+  "end": 40.33
+ },
+ {
+  "text": "Você",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 40.35,
+  "end": 40.61
+ },
+ {
+  "text": "tá",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 40.61,
+  "end": 40.74
+ },
+ {
+  "text": "demitido.",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 40.74,
+  "end": 41.49
+ },
+ {
+  "text": "E",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 41.49,
+  "end": 41.55
+ },
+ {
+  "text": "o",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 41.55,
+  "end": 41.61
+ },
+ {
+  "text": "salário",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 41.61,
+  "end": 42.03
+ },
+ {
+  "text": "do",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 42.03,
+  "end": 42.15
+ },
+ {
+  "text": "mês",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 42.15,
+  "end": 42.33
+ },
+ {
+  "text": "fica",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 42.33,
+  "end": 42.57
+ },
+ {
+  "text": "pelos",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 42.57,
+  "end": 42.78
+ },
+ {
+  "text": "pães",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 42.89,
+  "end": 43.08
+ },
+ {
+  "text": "que",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 43.13,
+  "end": 43.27
+ },
+ {
+  "text": "você",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 43.34,
+  "end": 43.5
+ },
+ {
+  "text": "deu.",
+  "quem": "VALTER",
+  "fimFala": true,
+  "start": 43.56,
+  "end": 43.95
+ },
+ {
+  "text": "Seu",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 44.007,
+  "end": 44.137
+ },
+ {
+  "text": "Valter,",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 44.137,
+  "end": 44.507
+ },
+ {
+  "text": "eu",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 44.507,
+  "end": 44.557
+ },
+ {
+  "text": "tenho",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 44.627,
+  "end": 44.837
+ },
+ {
+  "text": "minha",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 44.837,
+  "end": 45.077
+ },
+ {
+  "text": "mãe",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 45.077,
+  "end": 45.207
+ },
+ {
+  "text": "acamada.",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 45.217,
+  "end": 45.677
+ },
+ {
+  "text": "Esse",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 45.697,
+  "end": 45.907
+ },
+ {
+  "text": "salário",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 45.907,
+  "end": 46.277
+ },
+ {
+  "text": "é",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 46.277,
+  "end": 46.327
+ },
+ {
+  "text": "o",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 46.327,
+  "end": 46.377
+ },
+ {
+  "text": "remédio",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 46.377,
+  "end": 46.737
+ },
+ {
+  "text": "dela.",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 46.737,
+  "end": 47.047
+ },
+ {
+  "text": "Mas",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 47.047,
+  "end": 47.207
+ },
+ {
+  "text": "se",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 47.237,
+  "end": 47.327
+ },
+ {
+  "text": "ajudar",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 47.327,
+  "end": 47.597
+ },
+ {
+  "text": "alguém",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 47.667,
+  "end": 47.987
+ },
+ {
+  "text": "é",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 47.987,
+  "end": 48.037
+ },
+ {
+  "text": "motivo",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 48.037,
+  "end": 48.367
+ },
+ {
+  "text": "de",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 48.367,
+  "end": 48.477
+ },
+ {
+  "text": "demissão,",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 48.477,
+  "end": 49.087
+ },
+ {
+  "text": "eu",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 49.087,
+  "end": 49.217
+ },
+ {
+  "text": "saio",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 49.217,
+  "end": 49.477
+ },
+ {
+  "text": "de",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 49.477,
+  "end": 49.587
+ },
+ {
+  "text": "cabeça",
+  "quem": "DAVI",
+  "fimFala": false,
+  "start": 49.597,
+  "end": 49.987
+ },
+ {
+  "text": "erguida.",
+  "quem": "DAVI",
+  "fimFala": true,
+  "start": 49.997,
+  "end": 50.487
+ },
+ {
+  "text": "Seu",
+  "quem": "DAVI_SEM",
+  "fimFala": false,
+  "start": 50.523,
+  "end": 50.723
+ },
+ {
+  "text": "Tião,",
+  "quem": "DAVI_SEM",
+  "fimFala": false,
+  "start": 50.723,
+  "end": 51.173
+ },
+ {
+  "text": "não",
+  "quem": "DAVI_SEM",
+  "fimFala": false,
+  "start": 51.173,
+  "end": 51.363
+ },
+ {
+  "text": "fica",
+  "quem": "DAVI_SEM",
+  "fimFala": false,
+  "start": 51.403,
+  "end": 51.713
+ },
+ {
+  "text": "triste.",
+  "quem": "DAVI_SEM",
+  "fimFala": false,
+  "start": 51.713,
+  "end": 52.293
+ },
+ {
+  "text": "Deus",
+  "quem": "DAVI_SEM",
+  "fimFala": false,
+  "start": 52.323,
+  "end": 52.653
+ },
+ {
+  "text": "vê",
+  "quem": "DAVI_SEM",
+  "fimFala": false,
+  "start": 52.653,
+  "end": 52.833
+ },
+ {
+  "text": "tudo.",
+  "quem": "DAVI_SEM",
+  "fimFala": false,
+  "start": 52.833,
+  "end": 53.203
+ },
+ {
+  "text": "Toma,",
+  "quem": "DAVI_SEM",
+  "fimFala": false,
+  "start": 53.223,
+  "end": 53.703
+ },
+ {
+  "text": "o",
+  "quem": "DAVI_SEM",
+  "fimFala": false,
+  "start": 53.703,
+  "end": 53.753
+ },
+ {
+  "text": "último",
+  "quem": "DAVI_SEM",
+  "fimFala": false,
+  "start": 53.753,
+  "end": 54.053
+ },
+ {
+  "text": "pão",
+  "quem": "DAVI_SEM",
+  "fimFala": false,
+  "start": 54.053,
+  "end": 54.193
+ },
+ {
+  "text": "que",
+  "quem": "DAVI_SEM",
+  "fimFala": false,
+  "start": 54.223,
+  "end": 54.333
+ },
+ {
+  "text": "eu",
+  "quem": "DAVI_SEM",
+  "fimFala": false,
+  "start": 54.393,
+  "end": 54.453
+ },
+ {
+  "text": "comprei",
+  "quem": "DAVI_SEM",
+  "fimFala": false,
+  "start": 54.463,
+  "end": 54.853
+ },
+ {
+  "text": "com",
+  "quem": "DAVI_SEM",
+  "fimFala": false,
+  "start": 54.863,
+  "end": 54.993
+ },
+ {
+  "text": "o",
+  "quem": "DAVI_SEM",
+  "fimFala": false,
+  "start": 55.043,
+  "end": 55.053
+ },
+ {
+  "text": "meu",
+  "quem": "DAVI_SEM",
+  "fimFala": false,
+  "start": 55.063,
+  "end": 55.213
+ },
+ {
+  "text": "dinheiro.",
+  "quem": "DAVI_SEM",
+  "fimFala": false,
+  "start": 55.213,
+  "end": 55.703
+ },
+ {
+  "text": "Amanhã",
+  "quem": "DAVI_SEM",
+  "fimFala": false,
+  "start": 55.723,
+  "end": 55.953
+ },
+ {
+  "text": "eu",
+  "quem": "DAVI_SEM",
+  "fimFala": false,
+  "start": 55.953,
+  "end": 56.033
+ },
+ {
+  "text": "dou",
+  "quem": "DAVI_SEM",
+  "fimFala": false,
+  "start": 56.033,
+  "end": 56.163
+ },
+ {
+  "text": "um",
+  "quem": "DAVI_SEM",
+  "fimFala": false,
+  "start": 56.163,
+  "end": 56.243
+ },
+ {
+  "text": "jeito,",
+  "quem": "DAVI_SEM",
+  "fimFala": false,
+  "start": 56.243,
+  "end": 56.503
+ },
+ {
+  "text": "Ele",
+  "quem": "DAVI_SEM",
+  "fimFala": false,
+  "start": 56.543,
+  "end": 56.673
+ },
+ {
+  "text": "nunca",
+  "quem": "DAVI_SEM",
+  "fimFala": false,
+  "start": 56.673,
+  "end": 56.833
+ },
+ {
+  "text": "me",
+  "quem": "DAVI_SEM",
+  "fimFala": false,
+  "start": 56.893,
+  "end": 56.983
+ },
+ {
+  "text": "deixou",
+  "quem": "DAVI_SEM",
+  "fimFala": false,
+  "start": 56.983,
+  "end": 57.253
+ },
+ {
+  "text": "na",
+  "quem": "DAVI_SEM",
+  "fimFala": false,
+  "start": 57.253,
+  "end": 57.323
+ },
+ {
+  "text": "mão.",
+  "quem": "DAVI_SEM",
+  "fimFala": true,
+  "start": 57.343,
+  "end": 57.703
+ },
+ {
+  "text": "Menino,",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 57.673,
+  "end": 58.013
+ },
+ {
+  "text": "três",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 58.083,
+  "end": 58.323
+ },
+ {
+  "text": "invernos",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 58.333,
+  "end": 58.813
+ },
+ {
+  "text": "nessa",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 58.813,
+  "end": 59.123
+ },
+ {
+  "text": "calçada",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 59.123,
+  "end": 59.603
+ },
+ {
+  "text": "e",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 59.603,
+  "end": 59.663
+ },
+ {
+  "text": "você",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 59.663,
+  "end": 59.893
+ },
+ {
+  "text": "nunca",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 59.893,
+  "end": 60.183
+ },
+ {
+  "text": "me",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 60.183,
+  "end": 60.243
+ },
+ {
+  "text": "perguntou",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 60.343,
+  "end": 60.793
+ },
+ {
+  "text": "quem",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 60.853,
+  "end": 61.053
+ },
+ {
+  "text": "eu",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 61.053,
+  "end": 61.173
+ },
+ {
+  "text": "era.",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 61.173,
+  "end": 61.403
+ },
+ {
+  "text": "Amanhã",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 61.473,
+  "end": 61.793
+ },
+ {
+  "text": "cedo,",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 61.793,
+  "end": 62.173
+ },
+ {
+  "text": "volta",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 62.173,
+  "end": 62.503
+ },
+ {
+  "text": "aqui.",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 62.503,
+  "end": 62.953
+ },
+ {
+  "text": "De",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 62.953,
+  "end": 63.053
+ },
+ {
+  "text": "camisa",
+  "quem": "TIAO",
+  "fimFala": false,
+  "start": 63.123,
+  "end": 63.353
+ },
+ {
+  "text": "limpa.",
+  "quem": "TIAO",
+  "fimFala": true,
+  "start": 63.353,
+  "end": 63.763
+ },
+ {
+  "text": "Bom",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 63.807,
+  "end": 64.057
+ },
+ {
+  "text": "dia,",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 64.067,
+  "end": 64.617
+ },
+ {
+  "text": "doutor!",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 64.617,
+  "end": 65.517
+ },
+ {
+  "text": "Seja",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 65.697,
+  "end": 65.937
+ },
+ {
+  "text": "bem-vindo!",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 65.937,
+  "end": 66.887
+ },
+ {
+  "text": "Café",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 67.047,
+  "end": 67.227
+ },
+ {
+  "text": "por",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 67.227,
+  "end": 67.447
+ },
+ {
+  "text": "conta",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 67.447,
+  "end": 67.807
+ },
+ {
+  "text": "da",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 67.807,
+  "end": 67.897
+ },
+ {
+  "text": "casa",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 67.957,
+  "end": 68.237
+ },
+ {
+  "text": "pro",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 68.237,
+  "end": 68.457
+ },
+ {
+  "text": "senhor!",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 68.457,
+  "end": 69.137
+ },
+ {
+  "text": "Senta",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 69.197,
+  "end": 69.427
+ },
+ {
+  "text": "na",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 69.427,
+  "end": 69.547
+ },
+ {
+  "text": "melhor",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 69.547,
+  "end": 69.897
+ },
+ {
+  "text": "mesa,",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 69.897,
+  "end": 70.247
+ },
+ {
+  "text": "por",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 70.247,
+  "end": 70.427
+ },
+ {
+  "text": "favor,",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 70.427,
+  "end": 70.937
+ },
+ {
+  "text": "fique",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 70.937,
+  "end": 71.197
+ },
+ {
+  "text": "à",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 71.197,
+  "end": 71.247
+ },
+ {
+  "text": "vontade,",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 71.247,
+  "end": 71.737
+ },
+ {
+  "text": "a",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 71.737,
+  "end": 71.817
+ },
+ {
+  "text": "padaria",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 71.817,
+  "end": 72.327
+ },
+ {
+  "text": "é",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 72.357,
+  "end": 72.377
+ },
+ {
+  "text": "sua!",
+  "quem": "VALTER",
+  "fimFala": true,
+  "start": 72.507,
+  "end": 72.847
+ },
+ {
+  "text": "É",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 73.12,
+  "end": 73.14
+ },
+ {
+  "text": "minha",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 73.14,
+  "end": 73.4
+ },
+ {
+  "text": "mesmo,",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 73.4,
+  "end": 73.79
+ },
+ {
+  "text": "Valter.",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 73.79,
+  "end": 74.19
+ },
+ {
+  "text": "Eu",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 74.21,
+  "end": 74.3
+ },
+ {
+  "text": "sou",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 74.3,
+  "end": 74.47
+ },
+ {
+  "text": "Sebastião",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 74.47,
+  "end": 74.98
+ },
+ {
+  "text": "Almeida,",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 74.98,
+  "end": 75.55
+ },
+ {
+  "text": "dono",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 75.55,
+  "end": 75.79
+ },
+ {
+  "text": "desse",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 75.79,
+  "end": 76.02
+ },
+ {
+  "text": "prédio.",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 76.12,
+  "end": 76.51
+ },
+ {
+  "text": "O",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 76.51,
+  "end": 76.58
+ },
+ {
+  "text": "senhor",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 76.58,
+  "end": 76.89
+ },
+ {
+  "text": "me",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 76.89,
+  "end": 77
+ },
+ {
+  "text": "pagou",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 77,
+  "end": 77.27
+ },
+ {
+  "text": "aluguel",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 77.27,
+  "end": 77.57
+ },
+ {
+  "text": "por",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 77.66,
+  "end": 77.81
+ },
+ {
+  "text": "oito",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 77.81,
+  "end": 77.97
+ },
+ {
+  "text": "anos",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 77.97,
+  "end": 78.19
+ },
+ {
+  "text": "sem",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 78.19,
+  "end": 78.34
+ },
+ {
+  "text": "nunca",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 78.35,
+  "end": 78.62
+ },
+ {
+  "text": "me",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 78.62,
+  "end": 78.73
+ },
+ {
+  "text": "ver.",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 78.73,
+  "end": 79.11
+ },
+ {
+  "text": "Ontem",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 79.18,
+  "end": 79.44
+ },
+ {
+  "text": "você",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 79.44,
+  "end": 79.71
+ },
+ {
+  "text": "me",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 79.71,
+  "end": 79.84
+ },
+ {
+  "text": "viu.",
+  "quem": "TIAO_TERNO",
+  "fimFala": true,
+  "start": 79.84,
+  "end": 80.08
+ },
+ {
+  "text": "O",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 80.04,
+  "end": 80.05
+ },
+ {
+  "text": "senhor?",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 80.05,
+  "end": 80.54
+ },
+ {
+  "text": "O",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 80.54,
+  "end": 80.79
+ },
+ {
+  "text": "velho",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 80.79,
+  "end": 81.08
+ },
+ {
+  "text": "da",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 81.1,
+  "end": 81.18
+ },
+ {
+  "text": "calçada?",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 81.25,
+  "end": 81.84
+ },
+ {
+  "text": "Não",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 82.04,
+  "end": 82.28
+ },
+ {
+  "text": "pode",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 82.28,
+  "end": 82.54
+ },
+ {
+  "text": "ser!",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 82.79,
+  "end": 83.08
+ },
+ {
+  "text": "Seu",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 83.14,
+  "end": 83.26
+ },
+ {
+  "text": "Sebastião,",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 83.26,
+  "end": 83.94
+ },
+ {
+  "text": "me",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 83.94,
+  "end": 84.06
+ },
+ {
+  "text": "perdoa,",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 84.06,
+  "end": 84.53
+ },
+ {
+  "text": "foi",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 84.57,
+  "end": 84.72
+ },
+ {
+  "text": "brincadeira,",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 84.72,
+  "end": 85.39
+ },
+ {
+  "text": "eu",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 85.39,
+  "end": 85.5
+ },
+ {
+  "text": "não",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 85.5,
+  "end": 85.65
+ },
+ {
+  "text": "sabia",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 85.66,
+  "end": 85.93
+ },
+ {
+  "text": "que",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 85.93,
+  "end": 86.01
+ },
+ {
+  "text": "era",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 86.21,
+  "end": 86.25
+ },
+ {
+  "text": "o",
+  "quem": "VALTER",
+  "fimFala": false,
+  "start": 86.25,
+  "end": 86.3
+ },
+ {
+  "text": "senhor!",
+  "quem": "VALTER",
+  "fimFala": true,
+  "start": 86.3,
+  "end": 86.68
+ },
+ {
+  "text": "Esse",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 86.773,
+  "end": 86.913
+ },
+ {
+  "text": "é",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 86.923,
+  "end": 86.963
+ },
+ {
+  "text": "o",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 86.983,
+  "end": 87.023
+ },
+ {
+  "text": "problema,",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 87.023,
+  "end": 87.553
+ },
+ {
+  "text": "Valter.",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 87.553,
+  "end": 87.913
+ },
+ {
+  "text": "Você",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 87.973,
+  "end": 88.163
+ },
+ {
+  "text": "só",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 88.183,
+  "end": 88.263
+ },
+ {
+  "text": "respeita",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 88.323,
+  "end": 88.803
+ },
+ {
+  "text": "quem",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 88.803,
+  "end": 89.063
+ },
+ {
+  "text": "você",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 89.153,
+  "end": 89.333
+ },
+ {
+  "text": "acha",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 89.333,
+  "end": 89.613
+ },
+ {
+  "text": "que",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 89.613,
+  "end": 89.733
+ },
+ {
+  "text": "tem",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 89.863,
+  "end": 89.873
+ },
+ {
+  "text": "dinheiro.",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 89.873,
+  "end": 90.373
+ },
+ {
+  "text": "O",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 90.373,
+  "end": 90.453
+ },
+ {
+  "text": "contrato",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 90.453,
+  "end": 91.013
+ },
+ {
+  "text": "vence",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 91.013,
+  "end": 91.213
+ },
+ {
+  "text": "esse",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 91.213,
+  "end": 91.493
+ },
+ {
+  "text": "mês.",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 91.613,
+  "end": 91.743
+ },
+ {
+  "text": "E",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 91.763,
+  "end": 91.803
+ },
+ {
+  "text": "eu",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 91.803,
+  "end": 91.893
+ },
+ {
+  "text": "não",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 91.923,
+  "end": 92.063
+ },
+ {
+  "text": "vou",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 92.063,
+  "end": 92.193
+ },
+ {
+  "text": "renovar.",
+  "quem": "TIAO_TERNO",
+  "fimFala": true,
+  "start": 92.323,
+  "end": 92.793
+ },
+ {
+  "text": "Davi,",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 92.92,
+  "end": 93.29
+ },
+ {
+  "text": "chega",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 93.49,
+  "end": 93.8
+ },
+ {
+  "text": "mais.",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 93.8,
+  "end": 94.35
+ },
+ {
+  "text": "Essa",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 94.35,
+  "end": 94.58
+ },
+ {
+  "text": "padaria",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 94.59,
+  "end": 95.01
+ },
+ {
+  "text": "agora",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 95.01,
+  "end": 95.31
+ },
+ {
+  "text": "é",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 95.31,
+  "end": 95.37
+ },
+ {
+  "text": "sua.",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 95.37,
+  "end": 95.69
+ },
+ {
+  "text": "Eu",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 95.75,
+  "end": 95.79
+ },
+ {
+  "text": "entro",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 95.79,
+  "end": 96.04
+ },
+ {
+  "text": "com",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 96.04,
+  "end": 96.13
+ },
+ {
+  "text": "o",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 96.19,
+  "end": 96.22
+ },
+ {
+  "text": "prédio,",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 96.27,
+  "end": 96.54
+ },
+ {
+  "text": "você",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 96.59,
+  "end": 96.79
+ },
+ {
+  "text": "entra",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 96.79,
+  "end": 96.97
+ },
+ {
+  "text": "com",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 97.06,
+  "end": 97.19
+ },
+ {
+  "text": "o",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 97.19,
+  "end": 97.24
+ },
+ {
+  "text": "coração.",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 97.24,
+  "end": 97.81
+ },
+ {
+  "text": "E",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 97.81,
+  "end": 97.86
+ },
+ {
+  "text": "o",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 97.86,
+  "end": 97.91
+ },
+ {
+  "text": "remédio",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 97.91,
+  "end": 98.24
+ },
+ {
+  "text": "da",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 98.29,
+  "end": 98.39
+ },
+ {
+  "text": "sua",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 98.45,
+  "end": 98.56
+ },
+ {
+  "text": "mãe",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 98.56,
+  "end": 98.72
+ },
+ {
+  "text": "já",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 98.72,
+  "end": 98.83
+ },
+ {
+  "text": "tá",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 98.83,
+  "end": 98.94
+ },
+ {
+  "text": "pago.",
+  "quem": "TIAO_TERNO",
+  "fimFala": true,
+  "start": 98.94,
+  "end": 99.36
+ },
+ {
+  "text": "Seu",
+  "quem": "DAVI_CAMISA",
+  "fimFala": false,
+  "start": 99.403,
+  "end": 99.663
+ },
+ {
+  "text": "Tião,",
+  "quem": "DAVI_CAMISA",
+  "fimFala": false,
+  "start": 99.663,
+  "end": 100.203
+ },
+ {
+  "text": "eu",
+  "quem": "DAVI_CAMISA",
+  "fimFala": false,
+  "start": 100.203,
+  "end": 100.403
+ },
+ {
+  "text": "só",
+  "quem": "DAVI_CAMISA",
+  "fimFala": false,
+  "start": 100.403,
+  "end": 100.563
+ },
+ {
+  "text": "dei",
+  "quem": "DAVI_CAMISA",
+  "fimFala": false,
+  "start": 100.613,
+  "end": 100.833
+ },
+ {
+  "text": "um",
+  "quem": "DAVI_CAMISA",
+  "fimFala": false,
+  "start": 100.833,
+  "end": 101.003
+ },
+ {
+  "text": "pão.",
+  "quem": "DAVI_CAMISA",
+  "fimFala": false,
+  "start": 101.013,
+  "end": 101.443
+ },
+ {
+  "text": "Eu",
+  "quem": "DAVI_CAMISA",
+  "fimFala": false,
+  "start": 101.443,
+  "end": 101.653
+ },
+ {
+  "text": "não",
+  "quem": "DAVI_CAMISA",
+  "fimFala": false,
+  "start": 101.653,
+  "end": 101.833
+ },
+ {
+  "text": "fiz",
+  "quem": "DAVI_CAMISA",
+  "fimFala": false,
+  "start": 101.883,
+  "end": 102.053
+ },
+ {
+  "text": "nada",
+  "quem": "DAVI_CAMISA",
+  "fimFala": false,
+  "start": 102.053,
+  "end": 102.333
+ },
+ {
+  "text": "demais.",
+  "quem": "DAVI_CAMISA",
+  "fimFala": false,
+  "start": 102.333,
+  "end": 102.963
+ },
+ {
+  "text": "Meu",
+  "quem": "DAVI_CAMISA",
+  "fimFala": false,
+  "start": 103.173,
+  "end": 103.233
+ },
+ {
+  "text": "Deus,",
+  "quem": "DAVI_CAMISA",
+  "fimFala": false,
+  "start": 103.233,
+  "end": 103.703
+ },
+ {
+  "text": "obrigado.",
+  "quem": "DAVI_CAMISA",
+  "fimFala": false,
+  "start": 103.703,
+  "end": 104.593
+ },
+ {
+  "text": "A",
+  "quem": "DAVI_CAMISA",
+  "fimFala": false,
+  "start": 104.593,
+  "end": 104.653
+ },
+ {
+  "text": "minha",
+  "quem": "DAVI_CAMISA",
+  "fimFala": false,
+  "start": 104.653,
+  "end": 104.973
+ },
+ {
+  "text": "mãe",
+  "quem": "DAVI_CAMISA",
+  "fimFala": false,
+  "start": 104.973,
+  "end": 105.163
+ },
+ {
+  "text": "vai",
+  "quem": "DAVI_CAMISA",
+  "fimFala": false,
+  "start": 105.163,
+  "end": 105.373
+ },
+ {
+  "text": "ficar",
+  "quem": "DAVI_CAMISA",
+  "fimFala": false,
+  "start": 105.373,
+  "end": 105.673
+ },
+ {
+  "text": "boa.",
+  "quem": "DAVI_CAMISA",
+  "fimFala": true,
+  "start": 105.673,
+  "end": 106.093
+ },
+ {
+  "text": "Você",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 106.707,
+  "end": 107.417
+ },
+ {
+  "text": "deu",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 107.427,
+  "end": 107.957
+ },
+ {
+  "text": "o",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 107.957,
+  "end": 108.137
+ },
+ {
+  "text": "pão",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 108.137,
+  "end": 108.667
+ },
+ {
+  "text": "quando",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 108.827,
+  "end": 109.257
+ },
+ {
+  "text": "ninguém",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 109.257,
+  "end": 109.907
+ },
+ {
+  "text": "via.",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 109.907,
+  "end": 110.347
+ },
+ {
+  "text": "E",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 110.367,
+  "end": 110.417
+ },
+ {
+  "text": "quem",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 110.417,
+  "end": 110.727
+ },
+ {
+  "text": "é",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 110.727,
+  "end": 110.787
+ },
+ {
+  "text": "fiel",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 110.817,
+  "end": 111.097
+ },
+ {
+  "text": "no",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 111.097,
+  "end": 111.247
+ },
+ {
+  "text": "pouco,",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 111.247,
+  "end": 111.807
+ },
+ {
+  "text": "Deus",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 111.817,
+  "end": 112.067
+ },
+ {
+  "text": "coloca",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 112.067,
+  "end": 112.417
+ },
+ {
+  "text": "sobre",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 112.457,
+  "end": 112.767
+ },
+ {
+  "text": "o",
+  "quem": "TIAO_TERNO",
+  "fimFala": false,
+  "start": 112.767,
+  "end": 112.857
+ },
+ {
+  "text": "muito.",
+  "quem": "TIAO_TERNO",
+  "fimFala": true,
+  "start": 112.857,
+  "end": 113.417
+ },
+ {
+  "text": "Um",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 113.557,
+  "end": 113.657
+ },
+ {
+  "text": "pão",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 113.657,
+  "end": 113.897
+ },
+ {
+  "text": "dado",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 113.897,
+  "end": 114.217
+ },
+ {
+  "text": "com",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 114.217,
+  "end": 114.457
+ },
+ {
+  "text": "amor",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 114.457,
+  "end": 114.737
+ },
+ {
+  "text": "nunca",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 114.827,
+  "end": 115.187
+ },
+ {
+  "text": "se",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 115.187,
+  "end": 115.277
+ },
+ {
+  "text": "perde.",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 115.367,
+  "end": 115.797
+ },
+ {
+  "text": "Eu",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 115.857,
+  "end": 115.927
+ },
+ {
+  "text": "vejo",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 115.927,
+  "end": 116.187
+ },
+ {
+  "text": "o",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 116.187,
+  "end": 116.247
+ },
+ {
+  "text": "que",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 116.247,
+  "end": 116.437
+ },
+ {
+  "text": "você",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 116.437,
+  "end": 116.697
+ },
+ {
+  "text": "faz",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 116.697,
+  "end": 116.887
+ },
+ {
+  "text": "em",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 116.887,
+  "end": 116.997
+ },
+ {
+  "text": "segredo,",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 117.017,
+  "end": 117.577
+ },
+ {
+  "text": "e",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 117.577,
+  "end": 117.667
+ },
+ {
+  "text": "no",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 117.667,
+  "end": 117.767
+ },
+ {
+  "text": "tempo",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 117.767,
+  "end": 118.027
+ },
+ {
+  "text": "certo",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 118.207,
+  "end": 118.337
+ },
+ {
+  "text": "eu",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 118.337,
+  "end": 118.477
+ },
+ {
+  "text": "honro",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 118.477,
+  "end": 118.827
+ },
+ {
+  "text": "em",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 118.827,
+  "end": 118.917
+ },
+ {
+  "text": "público.",
+  "quem": "JESUS",
+  "fimFala": true,
+  "start": 119.017,
+  "end": 119.497
+ },
+ {
+  "text": "Você",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 119.6,
+  "end": 119.84
+ },
+ {
+  "text": "recebe",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 119.84,
+  "end": 120.28
+ },
+ {
+  "text": "essa",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 120.28,
+  "end": 120.58
+ },
+ {
+  "text": "bênção?",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 120.58,
+  "end": 121.17
+ },
+ {
+  "text": "Então",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 121.17,
+  "end": 121.5
+ },
+ {
+  "text": "escreve",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 121.5,
+  "end": 121.96
+ },
+ {
+  "text": "amém",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 121.96,
+  "end": 122.24
+ },
+ {
+  "text": "e",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 122.28,
+  "end": 122.3
+ },
+ {
+  "text": "de",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 122.3,
+  "end": 122.43
+ },
+ {
+  "text": "qual",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 122.43,
+  "end": 122.69
+ },
+ {
+  "text": "cidade",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 122.69,
+  "end": 123.09
+ },
+ {
+  "text": "você",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 123.09,
+  "end": 123.35
+ },
+ {
+  "text": "está",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 123.35,
+  "end": 123.61
+ },
+ {
+  "text": "assistindo.",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 123.61,
+  "end": 124.32
+ },
+ {
+  "text": "E",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 124.32,
+  "end": 124.38
+ },
+ {
+  "text": "compartilha",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 124.38,
+  "end": 125.05
+ },
+ {
+  "text": "com",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 125.05,
+  "end": 125.22
+ },
+ {
+  "text": "quem",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 125.23,
+  "end": 125.47
+ },
+ {
+  "text": "ajuda",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 125.47,
+  "end": 125.71
+ },
+ {
+  "text": "sem",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 125.89,
+  "end": 125.95
+ },
+ {
+  "text": "ninguém",
+  "quem": "JESUS",
+  "fimFala": false,
+  "start": 125.99,
+  "end": 126.39
+ },
+ {
+  "text": "ver.",
+  "quem": "JESUS",
+  "fimFala": true,
+  "start": 126.39,
+  "end": 126.8
+ }
+]

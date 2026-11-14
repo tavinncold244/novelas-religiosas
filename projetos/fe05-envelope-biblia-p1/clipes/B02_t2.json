@@ -1,0 +1,146 @@
+[
+  {
+    "text": "Minha",
+    "start": 0.05,
+    "end": 0.83,
+    "id": "w0"
+  },
+  {
+    "text": "filha,",
+    "start": 0.95,
+    "end": 1.99,
+    "id": "w1"
+  },
+  {
+    "text": "nessa",
+    "start": 2.01,
+    "end": 2.27,
+    "id": "w2"
+  },
+  {
+    "text": "casa",
+    "start": 2.28,
+    "end": 2.5,
+    "id": "w3"
+  },
+  {
+    "text": "o",
+    "start": 2.5,
+    "end": 2.55,
+    "id": "w4"
+  },
+  {
+    "text": "meu",
+    "start": 2.55,
+    "end": 2.72,
+    "id": "w5"
+  },
+  {
+    "text": "marido",
+    "start": 2.72,
+    "end": 3.08,
+    "id": "w6"
+  },
+  {
+    "text": "levantou",
+    "start": 3.08,
+    "end": 3.73,
+    "id": "w7"
+  },
+  {
+    "text": "tijolo",
+    "start": 3.76,
+    "end": 4.15,
+    "id": "w8"
+  },
+  {
+    "text": "por",
+    "start": 4.25,
+    "end": 4.47,
+    "id": "w9"
+  },
+  {
+    "text": "tijolo.",
+    "start": 4.47,
+    "end": 5,
+    "id": "w10"
+  },
+  {
+    "text": "Eu",
+    "start": 5.05,
+    "end": 5.15,
+    "id": "w11"
+  },
+  {
+    "text": "só",
+    "start": 5.15,
+    "end": 5.3,
+    "id": "w12"
+  },
+  {
+    "text": "queria",
+    "start": 5.3,
+    "end": 5.74,
+    "id": "w13"
+  },
+  {
+    "text": "terminar",
+    "start": 5.74,
+    "end": 6.31,
+    "id": "w14"
+  },
+  {
+    "text": "os",
+    "start": 6.35,
+    "end": 6.48,
+    "id": "w15"
+  },
+  {
+    "text": "meus",
+    "start": 6.48,
+    "end": 6.78,
+    "id": "w16"
+  },
+  {
+    "text": "dias",
+    "start": 6.78,
+    "end": 7.07,
+    "id": "w17"
+  },
+  {
+    "text": "aqui",
+    "start": 7.1,
+    "end": 7.38,
+    "id": "w18"
+  },
+  {
+    "text": "dentro,",
+    "start": 7.38,
+    "end": 8,
+    "id": "w19"
+  },
+  {
+    "text": "perto",
+    "start": 8,
+    "end": 8.22,
+    "id": "w20"
+  },
+  {
+    "text": "das",
+    "start": 8.23,
+    "end": 8.37,
+    "id": "w21"
+  },
+  {
+    "text": "coisas",
+    "start": 8.37,
+    "end": 8.65,
+    "id": "w22"
+  },
+  {
+    "text": "dele.",
+    "start": 8.65,
+    "end": 9,
+    "id": "w23"
+  }
+]

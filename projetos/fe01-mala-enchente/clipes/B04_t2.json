@@ -1,0 +1,164 @@
+[
+  {
+    "text": "Fácil",
+    "start": 0,
+    "end": 0.42,
+    "id": "w0"
+  },
+  {
+    "text": "falar",
+    "start": 0.42,
+    "end": 0.86,
+    "id": "w1"
+  },
+  {
+    "text": "pra",
+    "start": 0.86,
+    "end": 1.07,
+    "id": "w2"
+  },
+  {
+    "text": "quem",
+    "start": 1.13,
+    "end": 1.47,
+    "id": "w3"
+  },
+  {
+    "text": "não",
+    "start": 1.47,
+    "end": 1.73,
+    "id": "w4"
+  },
+  {
+    "text": "tem",
+    "start": 1.73,
+    "end": 1.99,
+    "id": "w5"
+  },
+  {
+    "text": "nada!",
+    "start": 1.99,
+    "end": 2.5,
+    "id": "w6"
+  },
+  {
+    "text": "Vai",
+    "start": 2.5,
+    "end": 3.05,
+    "id": "w7"
+  },
+  {
+    "text": "buscar",
+    "start": 3.05,
+    "end": 3.07,
+    "id": "w8"
+  },
+  {
+    "text": "a",
+    "start": 3.11,
+    "end": 3.15,
+    "id": "w9"
+  },
+  {
+    "text": "lavadeira",
+    "start": 3.15,
+    "end": 3.73,
+    "id": "w10"
+  },
+  {
+    "text": "ali",
+    "start": 3.73,
+    "end": 3.87,
+    "id": "w11"
+  },
+  {
+    "text": "do",
+    "start": 3.93,
+    "end": 4.06,
+    "id": "w12"
+  },
+  {
+    "text": "lado,",
+    "start": 4.06,
+    "end": 4.5,
+    "id": "w13"
+  },
+  {
+    "text": "aquela",
+    "start": 4.76,
+    "end": 4.91,
+    "id": "w14"
+  },
+  {
+    "text": "não",
+    "start": 4.91,
+    "end": 5.11,
+    "id": "w15"
+  },
+  {
+    "text": "tem",
+    "start": 5.11,
+    "end": 5.31,
+    "id": "w16"
+  },
+  {
+    "text": "nada",
+    "start": 5.31,
+    "end": 5.57,
+    "id": "w17"
+  },
+  {
+    "text": "pra",
+    "start": 5.63,
+    "end": 5.78,
+    "id": "w18"
+  },
+  {
+    "text": "perder",
+    "start": 5.78,
+    "end": 6.19,
+    "id": "w19"
+  },
+  {
+    "text": "mesmo.",
+    "start": 6.19,
+    "end": 6.65,
+    "id": "w20"
+  },
+  {
+    "text": "Eu",
+    "start": 6.8,
+    "end": 6.92,
+    "id": "w21"
+  },
+  {
+    "text": "espero",
+    "start": 7.06,
+    "end": 7.29,
+    "id": "w22"
+  },
+  {
+    "text": "o",
+    "start": 7.31,
+    "end": 7.35,
+    "id": "w23"
+  },
+  {
+    "text": "helicóptero",
+    "start": 7.35,
+    "end": 8.01,
+    "id": "w24"
+  },
+  {
+    "text": "da",
+    "start": 8.01,
+    "end": 8.13,
+    "id": "w25"
+  },
+  {
+    "text": "prefeitura.",
+    "start": 8.13,
+    "end": 8.91,
+    "id": "w26"
+  }
+]

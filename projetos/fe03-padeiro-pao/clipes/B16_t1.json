@@ -1,0 +1,104 @@
+[
+  {
+    "text": "Você",
+    "start": 0,
+    "end": 0.72,
+    "id": "w0"
+  },
+  {
+    "text": "deu",
+    "start": 0.72,
+    "end": 1.26,
+    "id": "w1"
+  },
+  {
+    "text": "o",
+    "start": 1.26,
+    "end": 1.44,
+    "id": "w2"
+  },
+  {
+    "text": "pão",
+    "start": 1.45,
+    "end": 2,
+    "id": "w3"
+  },
+  {
+    "text": "quando",
+    "start": 2,
+    "end": 2.91,
+    "id": "w4"
+  },
+  {
+    "text": "ninguém",
+    "start": 3.6,
+    "end": 4.43,
+    "id": "w5"
+  },
+  {
+    "text": "via",
+    "start": 4.43,
+    "end": 4.94,
+    "id": "w6"
+  },
+  {
+    "text": "Equem",
+    "start": 4.99,
+    "end": 5.96,
+    "id": "w7"
+  },
+  {
+    "text": "é",
+    "start": 5.96,
+    "end": 6.15,
+    "id": "w8"
+  },
+  {
+    "text": "fiel",
+    "start": 6.15,
+    "end": 6.92,
+    "id": "w9"
+  },
+  {
+    "text": "no",
+    "start": 6.92,
+    "end": 7.29,
+    "id": "w10"
+  },
+  {
+    "text": "pouco,",
+    "start": 7.39,
+    "end": 8.41,
+    "id": "w11"
+  },
+  {
+    "text": "Deus",
+    "start": 8.41,
+    "end": 8.58,
+    "id": "w12"
+  },
+  {
+    "text": "coloca",
+    "start": 8.64,
+    "end": 8.99,
+    "id": "w13"
+  },
+  {
+    "text": "sobre",
+    "start": 8.99,
+    "end": 9.3,
+    "id": "w14"
+  },
+  {
+    "text": "o",
+    "start": 9.3,
+    "end": 9.3,
+    "id": "w15"
+  },
+  {
+    "text": "muito",
+    "start": 9.3,
+    "end": 9.8,
+    "id": "w16"
+  }
+]

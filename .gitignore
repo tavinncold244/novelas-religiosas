@@ -1,0 +1,24 @@
+# pesados / gerados — ficam só no PC
+node_modules/
+saida/
+thumbs/
+youtube_shorts/
+referencias/
+entrada/
+**/.hyperframes/
+*.bak
+
+# projetos: só texto (roteiros, prompts, status), nada de mídia
+projetos/**
+!projetos/**/
+!projetos/**/*.md
+!projetos/**/*.txt
+!projetos/**/*.json
+!projetos/**/*.mjs
+
+# lixo/temporarios
+ferramentas/**/*.bak
+projetos/_recebidos/
+**/_tx_*/
+# fonte com licença (instalar no PC: Impact do Windows)
+*.ttf

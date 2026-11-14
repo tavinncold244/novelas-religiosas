@@ -1,0 +1,200 @@
+[
+  {
+    "text": "Seu",
+    "start": 0,
+    "end": 0.27,
+    "id": "w0"
+  },
+  {
+    "text": "Otávio,",
+    "start": 0.27,
+    "end": 1,
+    "id": "w1"
+  },
+  {
+    "text": "eu",
+    "start": 1,
+    "end": 1.11,
+    "id": "w2"
+  },
+  {
+    "text": "lavei",
+    "start": 1.11,
+    "end": 1.42,
+    "id": "w3"
+  },
+  {
+    "text": "a",
+    "start": 1.42,
+    "end": 1.48,
+    "id": "w4"
+  },
+  {
+    "text": "sua",
+    "start": 1.57,
+    "end": 1.66,
+    "id": "w5"
+  },
+  {
+    "text": "roupa",
+    "start": 1.66,
+    "end": 2,
+    "id": "w6"
+  },
+  {
+    "text": "por",
+    "start": 2,
+    "end": 2.22,
+    "id": "w7"
+  },
+  {
+    "text": "15",
+    "start": 2.23,
+    "end": 2.69,
+    "id": "w8"
+  },
+  {
+    "text": "anos",
+    "start": 2.69,
+    "end": 3,
+    "id": "w9"
+  },
+  {
+    "text": "e",
+    "start": 3,
+    "end": 3.05,
+    "id": "w10"
+  },
+  {
+    "text": "o",
+    "start": 3.1,
+    "end": 3.15,
+    "id": "w11"
+  },
+  {
+    "text": "senhor",
+    "start": 3.23,
+    "end": 3.65,
+    "id": "w12"
+  },
+  {
+    "text": "nunca",
+    "start": 3.65,
+    "end": 3.99,
+    "id": "w13"
+  },
+  {
+    "text": "me",
+    "start": 4.06,
+    "end": 4.22,
+    "id": "w14"
+  },
+  {
+    "text": "deu",
+    "start": 4.24,
+    "end": 4.44,
+    "id": "w15"
+  },
+  {
+    "text": "bom",
+    "start": 4.46,
+    "end": 4.7,
+    "id": "w16"
+  },
+  {
+    "text": "dia.",
+    "start": 4.7,
+    "end": 5.72,
+    "id": "w17"
+  },
+  {
+    "text": "Mas",
+    "start": 6.38,
+    "end": 6.57,
+    "id": "w18"
+  },
+  {
+    "text": "eu",
+    "start": 6.58,
+    "end": 6.71,
+    "id": "w19"
+  },
+  {
+    "text": "tô",
+    "start": 6.71,
+    "end": 6.84,
+    "id": "w20"
+  },
+  {
+    "text": "pedindo,",
+    "start": 6.84,
+    "end": 7.44,
+    "id": "w21"
+  },
+  {
+    "text": "solta",
+    "start": 7.44,
+    "end": 7.77,
+    "id": "w22"
+  },
+  {
+    "text": "essa",
+    "start": 7.93,
+    "end": 8.04,
+    "id": "w23"
+  },
+  {
+    "text": "mala",
+    "start": 8.04,
+    "end": 8.31,
+    "id": "w24"
+  },
+  {
+    "text": "e",
+    "start": 8.31,
+    "end": 8.37,
+    "id": "w25"
+  },
+  {
+    "text": "vem.",
+    "start": 8.37,
+    "end": 8.82,
+    "id": "w26"
+  },
+  {
+    "text": "O",
+    "start": 8.82,
+    "end": 8.86,
+    "id": "w27"
+  },
+  {
+    "text": "senhor",
+    "start": 8.86,
+    "end": 9.13,
+    "id": "w28"
+  },
+  {
+    "text": "vale",
+    "start": 9.14,
+    "end": 9.33,
+    "id": "w29"
+  },
+  {
+    "text": "mais",
+    "start": 9.33,
+    "end": 9.51,
+    "id": "w30"
+  },
+  {
+    "text": "que",
+    "start": 9.52,
+    "end": 9.66,
+    "id": "w31"
+  },
+  {
+    "text": "ela.",
+    "start": 9.66,
+    "end": 9.98,
+    "id": "w32"
+  }
+]

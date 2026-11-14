@@ -1,0 +1,306 @@
+{
+  "estilo": "Fictional Brazilian faith drama performed by professional actors. Vertical 9:16, cinematic film look, ultra-realistic, 35mm lens, shallow depth of field, warm golden-hour light breaking through clouds, gentle slow camera moves, shot in Brazil. One continuous scene in one location; every actor keeps exactly the same face, hair and clothes in every shot.",
+  "prefixo": "The attached reference images are AI-generated stills from earlier shots of this same fictional film — the characters are fictional, not real people. Keep the same faces, hair, clothes, location and light as in the reference images. If the reference and this text differ in any detail (position, water level, framing), keep the appearance from the reference and follow this text for the action and framing; do not ask for clarification, just generate the video.",
+  "prefixo_ref": "The attached reference images are AI-generated stills from earlier shots of this same fictional film — the characters are fictional, not real people. Keep the same faces, hair, clothes, location and light as in the reference images. If the reference and this text differ in any detail (position, water level, framing), keep the appearance from the reference and follow this text for the action and framing; do not ask for clarification, just generate the video.",
+  "personagens": {
+    "JESUS": "JESUS — man in his early 30s, Middle-Eastern features, warm olive skin, shoulder-length wavy dark-brown hair parted in the middle, full well-groomed dark-brown beard, calm kind brown eyes, gentle smile. Simple long ivory linen robe with a V-neck and a light-brown cloth sash. No halo, no glow on the body, no jewelry. Voice: calm, deep, warm, slow Brazilian Portuguese.",
+    "OTAVIO": "OTÁVIO — 62-year-old white Brazilian man, slicked-back grey hair, clean-shaven, heavy gold wristwatch, soaked light-grey suit jacket over a wet white shirt, loose burgundy tie, hugging a large brown leather briefcase against his chest with both arms. Voice: arrogant, then desperate.",
+    "CIDA": "DONA CIDA — 58-year-old Black Brazilian woman, grey hair in a bun under a faded yellow headscarf, simple faded blue dress with small white flowers, white cotton apron, thin gold wedding ring, hugging an old black cast-iron sewing machine. Voice: humble, warm, gentle.",
+    "CIDA_BARCO": "DONA CIDA — 58-year-old Black Brazilian woman, grey hair in a bun under a faded yellow headscarf, simple faded blue dress with small white flowers, white cotton apron, thin gold wedding ring, empty-handed, hands resting on her lap (she no longer has any sewing machine — there is NO sewing machine anywhere in the boat). Voice: humble, warm, gentle.",
+    "OTAVIO_LIVRE": "OTÁVIO — 62-year-old white Brazilian man, slicked-back grey hair, clean-shaven, heavy gold wristwatch, soaked light-grey suit jacket over a wet white shirt, no tie, soaking wet, EMPTY-HANDED — he no longer has any briefcase or bag (there is NO briefcase anywhere). Voice: humble, moved."
+  },
+  "rotulos": {
+    "OTAVIO": "OTÁVIO",
+    "CIDA": "DONA CIDA",
+    "CIDA_BARCO": "DONA CIDA",
+    "OTAVIO_LIVRE": "OTÁVIO"
+  },
+  "cenarios": {
+    "L1": "Flooded street of a small Brazilian town in the late afternoon, calm muddy brown water up to the windows. Two flat concrete rooftops side by side just above the water: a big white two-storey house (Otávio's) and a small plain red-brick house (Dona Cida's). Jesus stands in a small old wooden rowing boat floating on the water between the two houses. Clouds breaking with warm golden sunlight. No shop signs and no character names anywhere.",
+    "L2": "Dry grassy riverbank on higher ground at sunset, the flooded town softly out of focus in the background, warm golden light, the small wooden rowing boat pulled up onto the grass. No signs, no writing anywhere."
+  },
+  "blocos": [
+    {
+      "id": "B01",
+      "duracao": 10,
+      "cenario": "L1",
+      "dupla": "OTAVIO",
+      "acao": "Jesus in the wooden boat right next to Otávio's rooftop, reaching out his open hand toward Otávio; Otávio clutches the briefcase, water at his ankles.",
+      "falas": [
+        [
+          "JESUS",
+          "calm, firm, hand extended",
+          "Otávio, a água está subindo. Solte essa mala e me dê a sua mão. Só cabe no meu barco quem estiver de mãos vazias. Eu vim buscar você."
+        ]
+      ]
+    },
+    {
+      "id": "B02",
+      "duracao": 10,
+      "cenario": "L1",
+      "plano": "medium shot",
+      "acao": "Otávio on his rooftop squeezes the briefcase harder, desperate, shaking his head.",
+      "falas": [
+        [
+          "OTAVIO",
+          "desperate, clutching the briefcase",
+          "Soltar? Aqui dentro tem trinta anos da minha vida, Senhor! Escritura, dólar, as joias da minha mãe. Sem essa mala eu não sou ninguém. Me tira daqui com ela!"
+        ]
+      ]
+    },
+    {
+      "id": "B03",
+      "duracao": 10,
+      "cenario": "L1",
+      "plano": "medium close-up",
+      "acao": "Jesus in the boat, serene, looking at Otávio off-camera.",
+      "falas": [
+        [
+          "JESUS",
+          "serene, gentle",
+          "Você carregou essa mala por trinta anos, e ela nunca carregou você. Ela pesa mais que o seu coração, filho."
+        ]
+      ]
+    },
+    {
+      "id": "B04",
+      "duracao": 10,
+      "cenario": "L1",
+      "plano": "medium shot",
+      "acao": "Otávio, water now at his knees, points with his chin toward the small brick house next door, mocking.",
+      "falas": [
+        [
+          "OTAVIO",
+          "arrogant, mocking smile",
+          "Fácil falar pra quem não tem nada! Vai buscar a lavadeira ali do lado, aquela não tem nada pra perder mesmo. Eu espero o helicóptero da prefeitura."
+        ]
+      ]
+    },
+    {
+      "id": "B05",
+      "duracao": 10,
+      "cenario": "L1",
+      "plano": "medium shot",
+      "acao": "Dona Cida on the rooftop of the small brick house, waving one arm toward the boat while hugging the sewing machine with the other.",
+      "falas": [
+        [
+          "CIDA",
+          "worried, calling out",
+          "Moço! Moço do barco, aqui! Pelo amor de Deus, a água já entrou na casa toda. Só me sobrou essa máquina de costura do meu falecido Jorge."
+        ]
+      ]
+    },
+    {
+      "id": "B06",
+      "duracao": 10,
+      "cenario": "L1",
+      "dupla": "CIDA",
+      "acao": "Jesus has rowed to Dona Cida's rooftop; the boat touches the edge; he looks up at her kindly.",
+      "falas": [
+        [
+          "JESUS",
+          "tender",
+          "Dona Cida, eu sei. Foi nessa máquina que a senhora costurou o pão dos seus filhos por vinte anos. Mas agora eu preciso que a senhora solte ela e venha comigo."
+        ]
+      ]
+    },
+    {
+      "id": "B07",
+      "duracao": 10,
+      "cenario": "L1",
+      "plano": "medium close-up",
+      "acao": "Dona Cida hugs the sewing machine, teary eyes.",
+      "falas": [
+        [
+          "CIDA",
+          "teary, afraid",
+          "Soltar, meu Senhor? Ela é tudo que eu tenho. Amanhã como é que eu vou trabalhar? Como eu vou comprar o remédio do meu neto? Eu não tenho mais nada."
+        ]
+      ]
+    },
+    {
+      "id": "B08",
+      "duracao": 10,
+      "cenario": "L1",
+      "plano": "medium close-up",
+      "acao": "Jesus in the boat looking up at Dona Cida with a warm smile, holding out his hand.",
+      "falas": [
+        [
+          "JESUS",
+          "warm smile",
+          "Cida, quem te deu as mãos que costuram fui eu. A máquina fica na água, as mãos vêm comigo. Eu sou o seu verdadeiro sustento. Você confia em mim?"
+        ]
+      ]
+    },
+    {
+      "id": "B09",
+      "duracao": 10,
+      "cenario": "L1",
+      "plano": "medium shot",
+      "acao": "Dona Cida closes her eyes, then gently sets the sewing machine down into the water and reaches out her hand.",
+      "falas": [
+        [
+          "CIDA",
+          "praying, moved, then decided",
+          "Confio, Senhor. Eu perdi o Jorge e não morri. Pode levar a máquina, rio, que o meu Deus me dá outra. Segura a minha mão, Senhor, eu vou."
+        ]
+      ]
+    },
+    {
+      "id": "B10",
+      "duracao": 10,
+      "cenario": "L1",
+      "plano": "medium shot",
+      "acao": "Otávio on his rooftop watches the scene next door, scoffing, then glances at the empty sky, the water at his thighs.",
+      "falas": [
+        [
+          "OTAVIO",
+          "scoffing, then impatient",
+          "Ela soltou? Ela jogou a máquina na água? Velha doida. Daqui a pouco chega o helicóptero e eu saio daqui com tudo, com a mala inteira. Que demora é essa?"
+        ]
+      ]
+    },
+    {
+      "id": "B11",
+      "duracao": 10,
+      "cenario": "L1",
+      "plano": "medium close-up",
+      "acao": "Otávio, anxious, keeps the briefcase pressed against his chest with one arm and lifts a phone to his ear with the other hand.",
+      "falas": [
+        [
+          "OTAVIO",
+          "anxious, on the phone",
+          "Alô, prefeitura? É o Otávio Rangel! Eu pago o que for, manda o helicóptero agora! Como assim só amanhã? A água tá na minha cintura! Alô? Alô!"
+        ]
+      ]
+    },
+    {
+      "id": "B12",
+      "duracao": 10,
+      "cenario": "L1",
+      "personagens": [
+        "CIDA_BARCO"
+      ],
+      "acao": "Jesus sits in the wooden boat on the flooded street, Dona Cida sitting calmly behind him in the same boat; he looks up toward Otávio off-camera and reaches out his open hand.",
+      "falas": [
+        [
+          "JESUS",
+          "patient, firm",
+          "Otávio, o dinheiro comprou a sua casa, mas não comprou o seu chão. Eu voltei por você. Olha pra Cida, ela está em paz. Ainda dá tempo. Solte a mala."
+        ]
+      ],
+      "plano": "medium shot"
+    },
+    {
+      "id": "B13",
+      "duracao": 10,
+      "cenario": "L1",
+      "plano": "medium close-up",
+      "acao": "Dona Cida sitting in the boat, wet, speaking up to Otávio off-camera with compassion.",
+      "falas": [
+        [
+          "CIDA_BARCO",
+          "gentle, compassionate",
+          "Seu Otávio, eu lavei a sua roupa por quinze anos e o senhor nunca me deu bom dia. Mas eu tô pedindo: solta essa mala e vem. O senhor vale mais que ela."
+        ]
+      ]
+    },
+    {
+      "id": "B14",
+      "duracao": 10,
+      "cenario": "L1",
+      "plano": "close-up",
+      "acao": "Otávio, water at his chest, breaks down crying, still holding the briefcase.",
+      "falas": [
+        [
+          "OTAVIO",
+          "teary, ashamed, speaking clearly",
+          "Quinze anos, e eu nunca te dei bom dia. Senhor, eu tenho medo. Sem essa mala eu não sou nada."
+        ]
+      ]
+    },
+    {
+      "id": "B15",
+      "duracao": 10,
+      "cenario": "L1",
+      "plano": "close-up",
+      "acao": "Jesus close, serene, hand reaching toward Otávio.",
+      "falas": [
+        [
+          "JESUS",
+          "serene, loving",
+          "É exatamente aí que você começa a ser alguém, filho. Ninguém entra no meu barco carregando o mundo nas costas. Eu estou aqui. Solta."
+        ]
+      ]
+    },
+    {
+      "id": "B16",
+      "duracao": 10,
+      "cenario": "L1",
+      "plano": "medium shot",
+      "acao": "Otávio lets the briefcase go; it floats away on the brown water; he grabs Jesus's hand and is pulled into the boat.",
+      "falas": [
+        [
+          "OTAVIO",
+          "crying, releasing",
+          "Eu solto, Senhor! Leva tudo! Me perdoa! Me perdoa, Cida! Eu só quero viver!"
+        ],
+        [
+          "JESUS",
+          "smiling, relieved",
+          "Pronto."
+        ]
+      ]
+    },
+    {
+      "id": "B17",
+      "duracao": 10,
+      "cenario": "L2",
+      "plano": "medium shot",
+      "acao": "On the dry riverbank at sunset, Dona Cida and Otávio stand side by side, both soaking wet and empty-handed (no sewing machine, no briefcase, nothing in their hands); Otávio is humble.",
+      "falas": [
+        [
+          "CIDA_BARCO",
+          "peaceful smile",
+          "Perdi a máquina, Senhor, mas ganhei paz."
+        ],
+        [
+          "OTAVIO_LIVRE",
+          "humble, moved",
+          "Dona Cida, a senhora vai ter uma oficina com dez máquinas. E vai me ensinar a dar bom dia."
+        ]
+      ]
+    },
+    {
+      "id": "B18",
+      "duracao": 10,
+      "cenario": "L2",
+      "plano": "medium close-up",
+      "personagens": [
+        "JESUS"
+      ],
+      "acao": "Jesus on the riverbank at sunset, the sun behind him, turns and looks straight into the camera.",
+      "falas": [
+        [
+          "JESUS",
+          "calm, looking into the camera",
+          "O apego às coisas desta terra afunda qualquer um. Onde está o seu tesouro, ali também está o seu coração."
+        ]
+      ]
+    },
+    {
+      "id": "B19",
+      "duracao": 10,
+      "cenario": "L2",
+      "plano": "close-up",
+      "acao": "Jesus close-up, looking straight into the camera, gentle smile, sunset behind him.",
+      "falas": [
+        [
+          "JESUS",
+          "gentle, looking into the camera",
+          "Muita gente vai pular esse vídeo, porque soltar dói. Mas você chegou até aqui por um motivo. Se você soltou alguma coisa hoje, escreve amém e de qual cidade está assistindo."
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "text": "Você",
+    "start": 0.02,
+    "end": 0.33,
+    "id": "w0"
+  },
+  {
+    "text": "é",
+    "start": 0.33,
+    "end": 0.4,
+    "id": "w1"
+  },
+  {
+    "text": "a",
+    "start": 0.41,
+    "end": 0.49,
+    "id": "w2"
+  },
+  {
+    "text": "crente",
+    "start": 0.51,
+    "end": 0.98,
+    "id": "w3"
+  },
+  {
+    "text": "que",
+    "start": 0.98,
+    "end": 1.17,
+    "id": "w4"
+  },
+  {
+    "text": "fica",
+    "start": 1.25,
+    "end": 1.53,
+    "id": "w5"
+  },
+  {
+    "text": "rezando",
+    "start": 1.56,
+    "end": 2.14,
+    "id": "w6"
+  },
+  {
+    "text": "nos",
+    "start": 2.14,
+    "end": 2.39,
+    "id": "w7"
+  },
+  {
+    "text": "quartos?",
+    "start": 2.39,
+    "end": 3.32,
+    "id": "w8"
+  },
+  {
+    "text": "Então",
+    "start": 3.34,
+    "end": 3.92,
+    "id": "w9"
+  },
+  {
+    "text": "escuta,",
+    "start": 4.13,
+    "end": 4.79,
+    "id": "w10"
+  },
+  {
+    "text": "se",
+    "start": 4.79,
+    "end": 4.95,
+    "id": "w11"
+  },
+  {
+    "text": "o",
+    "start": 4.95,
+    "end": 5.03,
+    "id": "w12"
+  },
+  {
+    "text": "meu",
+    "start": 5.03,
+    "end": 5.27,
+    "id": "w13"
+  },
+  {
+    "text": "pai",
+    "start": 5.27,
+    "end": 5.51,
+    "id": "w14"
+  },
+  {
+    "text": "morrer",
+    "start": 5.51,
+    "end": 5.98,
+    "id": "w15"
+  },
+  {
+    "text": "hoje,",
+    "start": 5.98,
+    "end": 6.4,
+    "id": "w16"
+  },
+  {
+    "text": "eu",
+    "start": 6.4,
+    "end": 6.64,
+    "id": "w17"
+  },
+  {
+    "text": "acabo",
+    "start": 6.64,
+    "end": 6.87,
+    "id": "w18"
+  },
+  {
+    "text": "com",
+    "start": 6.87,
+    "end": 7.06,
+    "id": "w19"
+  },
+  {
+    "text": "a",
+    "start": 7.06,
+    "end": 7.12,
+    "id": "w20"
+  },
+  {
+    "text": "sua",
+    "start": 7.12,
+    "end": 7.3,
+    "id": "w21"
+  },
+  {
+    "text": "carreira.",
+    "start": 7.3,
+    "end": 7.84,
+    "id": "w22"
+  },
+  {
+    "text": "Eu",
+    "start": 7.86,
+    "end": 7.96,
+    "id": "w23"
+  },
+  {
+    "text": "sou",
+    "start": 7.96,
+    "end": 8.14,
+    "id": "w24"
+  },
+  {
+    "text": "dono",
+    "start": 8.14,
+    "end": 8.38,
+    "id": "w25"
+  },
+  {
+    "text": "de",
+    "start": 8.38,
+    "end": 8.5,
+    "id": "w26"
+  },
+  {
+    "text": "metade",
+    "start": 8.65,
+    "end": 8.86,
+    "id": "w27"
+  },
+  {
+    "text": "desse",
+    "start": 8.86,
+    "end": 9.16,
+    "id": "w28"
+  },
+  {
+    "text": "hospital.",
+    "start": 9.16,
+    "end": 9.72,
+    "id": "w29"
+  }
+]

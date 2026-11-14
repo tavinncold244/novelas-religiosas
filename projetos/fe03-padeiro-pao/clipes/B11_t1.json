@@ -1,0 +1,164 @@
+[
+  {
+    "text": "É",
+    "start": 0,
+    "end": 0.1,
+    "id": "w0"
+  },
+  {
+    "text": "minha",
+    "start": 0.1,
+    "end": 0.62,
+    "id": "w1"
+  },
+  {
+    "text": "mesmo,",
+    "start": 0.62,
+    "end": 1.35,
+    "id": "w2"
+  },
+  {
+    "text": "Walter.",
+    "start": 1.35,
+    "end": 2,
+    "id": "w3"
+  },
+  {
+    "text": "Eu",
+    "start": 2,
+    "end": 2.19,
+    "id": "w4"
+  },
+  {
+    "text": "sou",
+    "start": 2.19,
+    "end": 2.47,
+    "id": "w5"
+  },
+  {
+    "text": "Sebastião",
+    "start": 2.62,
+    "end": 3.32,
+    "id": "w6"
+  },
+  {
+    "text": "Almeida,",
+    "start": 3.32,
+    "end": 4.11,
+    "id": "w7"
+  },
+  {
+    "text": "dono",
+    "start": 4.11,
+    "end": 4.33,
+    "id": "w8"
+  },
+  {
+    "text": "desse",
+    "start": 4.33,
+    "end": 4.62,
+    "id": "w9"
+  },
+  {
+    "text": "prédio.",
+    "start": 4.72,
+    "end": 5,
+    "id": "w10"
+  },
+  {
+    "text": "O",
+    "start": 5,
+    "end": 5.06,
+    "id": "w11"
+  },
+  {
+    "text": "senhor",
+    "start": 5.06,
+    "end": 5.43,
+    "id": "w12"
+  },
+  {
+    "text": "me",
+    "start": 5.43,
+    "end": 5.52,
+    "id": "w13"
+  },
+  {
+    "text": "pagou",
+    "start": 5.62,
+    "end": 5.85,
+    "id": "w14"
+  },
+  {
+    "text": "aluguel",
+    "start": 5.85,
+    "end": 6.26,
+    "id": "w15"
+  },
+  {
+    "text": "por",
+    "start": 6.26,
+    "end": 6.45,
+    "id": "w16"
+  },
+  {
+    "text": "oito",
+    "start": 6.45,
+    "end": 6.69,
+    "id": "w17"
+  },
+  {
+    "text": "anos",
+    "start": 6.69,
+    "end": 7,
+    "id": "w18"
+  },
+  {
+    "text": "sem",
+    "start": 7,
+    "end": 7.18,
+    "id": "w19"
+  },
+  {
+    "text": "nunca",
+    "start": 7.18,
+    "end": 7.49,
+    "id": "w20"
+  },
+  {
+    "text": "me",
+    "start": 7.49,
+    "end": 7.61,
+    "id": "w21"
+  },
+  {
+    "text": "ver.",
+    "start": 7.72,
+    "end": 8,
+    "id": "w22"
+  },
+  {
+    "text": "Ontem",
+    "start": 8,
+    "end": 8.56,
+    "id": "w23"
+  },
+  {
+    "text": "você",
+    "start": 8.62,
+    "end": 9.05,
+    "id": "w24"
+  },
+  {
+    "text": "me",
+    "start": 9.05,
+    "end": 9.27,
+    "id": "w25"
+  },
+  {
+    "text": "viu.",
+    "start": 9.27,
+    "end": 9.99,
+    "id": "w26"
+  }
+]
